@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.packagemanager",
   "displayName": "ET.PackageManager",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "unity": "2022.3",
   "category": "Core/Manager|UI/YIUI",
   "description": "ETPackageManager ET包管理 >>> 文档: https://lib9kmxvq7k.feishu.cn/wiki/DzqwwwBJvixRvtkCI4dcatGcnAd",
@@ -18,5 +18,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
   },
-  "_fingerprint": "955e1903b6d81eec3f28b5b9bb586b785fb05c31"
+  "_fingerprint": "2cde779ecfe2686780b23772bad0ff958bb2e5ec"
 }
