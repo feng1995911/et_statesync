@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 02d4afc7b6254bb98cb8a08c03c8b728
+timeCreated: 1715671510
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206589
+  packageName: 'Abilities: Game Creator 2'
+  packageVersion: 1.15.0
+  assetPath: Assets/Plugins/DaimahouGames/Packages/Abilities/Runtime/Pawns/Messages/MessageAbilityHit.cs
+  uploadId: 754312

@@ -1,0 +1,8 @@
+﻿<linker>
+    <assembly fullname="Daimahou.Runtime.Abilities">
+        <type fullname="*" preserve="all"/>
+    </assembly>
+    <assembly fullname="Daimahou.Runtime.Core">
+        <type fullname="*" preserve="all"/>
+    </assembly>
+</linker>

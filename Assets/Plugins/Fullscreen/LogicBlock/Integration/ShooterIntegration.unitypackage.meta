@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6290a0245f8a78247830df720795aff0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Integration/ShooterIntegration.unitypackage
+  uploadId: 768745

@@ -1,0 +1,25 @@
+{
+    "name": "Fullscreen.LogicBlock.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa216a02d195f46dfac1c6346fe5a4ee",
+        "GUID:406c89e0bc84d48f4b079c3c4cd13320",
+        "GUID:91df4d19eed594247b4addc1a7fd2744",
+        "GUID:637eac8068651455ca06dff55a1f3bdd",
+        "GUID:3aced99fbeadb4858ab668e0dbe54292",
+        "GUID:51f3958e72a5244349be6df7fb9cc4a4",
+        "GUID:291e0c3f8e44e4ecf87c826d88458542",
+        "GUID:3713bce03a5224594bfb2fbd5fe7c992"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

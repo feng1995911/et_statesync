@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 24bfe118e85666d4db4a69fa488044a2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Properties/Get/BlockGetRotationReference.cs
+  uploadId: 768745

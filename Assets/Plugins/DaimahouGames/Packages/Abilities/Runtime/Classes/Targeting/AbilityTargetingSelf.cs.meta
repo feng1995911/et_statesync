@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 21f959247d264113a7e92174b1666046
+timeCreated: 1637657893
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206589
+  packageName: 'Abilities: Game Creator 2'
+  packageVersion: 1.15.0
+  assetPath: Assets/Plugins/DaimahouGames/Packages/Abilities/Runtime/Classes/Targeting/AbilityTargetingSelf.cs
+  uploadId: 754312

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c121e5c1b6486084fbae1113d282ede2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Example/Package.unitypackage
+  uploadId: 768745

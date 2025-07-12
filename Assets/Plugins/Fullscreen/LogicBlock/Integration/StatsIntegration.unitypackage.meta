@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d4af73c5ab5fbc4e9dbd441ab2183ad
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Integration/StatsIntegration.unitypackage
+  uploadId: 768745

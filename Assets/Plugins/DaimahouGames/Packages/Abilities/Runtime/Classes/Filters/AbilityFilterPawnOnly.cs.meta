@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2b4647a94ef444d1b299d445a12e1bef
+timeCreated: 1641785955
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206589
+  packageName: 'Abilities: Game Creator 2'
+  packageVersion: 1.15.0
+  assetPath: Assets/Plugins/DaimahouGames/Packages/Abilities/Runtime/Classes/Filters/AbilityFilterPawnOnly.cs
+  uploadId: 754312

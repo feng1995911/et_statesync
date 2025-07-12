@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5621d7223b557714c83abbc9c5d9b9b7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Integration/InventoryIntegration.unitypackage
+  uploadId: 768745

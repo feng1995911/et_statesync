@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c9bf57eb00c5c7a4cbd5ec77db2d517f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Editor/Editors/BlockBox.cs
+  uploadId: 768745

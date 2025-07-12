@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cdfa4bd4936ea1b45acb086c54ec944f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Properties/Get/BlockGetAudioReference.cs
+  uploadId: 768745
