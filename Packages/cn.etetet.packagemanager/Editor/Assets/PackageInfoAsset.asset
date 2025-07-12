@@ -37,6 +37,8 @@ MonoBehaviour:
     Version: 2.0.0
   - Name: cn.etetet.yiui3ddisplay
     Version: 2.0.0
+  - Name: cn.etetet.yiui
+    Version: 
   - Name: cn.etetet.watcher
     Version: 3.0.0
   - Name: cn.etetet.unit
@@ -166,5 +168,5 @@ MonoBehaviour:
   - Name: cn.etetet.yiuistatesync
     Version: 2.0.0
   BanPackageInfo: []
-  LastUpdateTime: 1752313758
+  LastUpdateTime: 1752328643
   UpdateInterval: 3600
