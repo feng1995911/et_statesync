@@ -37,10 +37,11 @@
       "dependencies": {}
     },
     "cn.etetet.excel": {
-      "version": "file:cn.etetet.excel",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "version": "3.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://npm.pkg.github.com/@ET-Packages"
     },
     "cn.etetet.http": {
       "version": "file:cn.etetet.http",
@@ -245,6 +246,18 @@
       "dependencies": {
         "cn.etetet.yiuiframework": "2.0.0"
       }
+    },
+    "cn.etetet.yiuiluban": {
+      "version": "file:cn.etetet.yiuiluban",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuilubangen": {
+      "version": "file:cn.etetet.yiuilubangen",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "cn.etetet.yiuireddot": {
       "version": "file:cn.etetet.yiuireddot",
