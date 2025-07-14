@@ -1,0 +1,5 @@
+﻿Key,Type,Desc,English
+Login,Text,,Login
+None,Text,,None
+Test,Text,,English
+TestFormat,Text,,EnglishFormat{0}
