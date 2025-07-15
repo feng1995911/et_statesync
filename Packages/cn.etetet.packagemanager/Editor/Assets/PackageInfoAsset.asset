@@ -49,6 +49,8 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.sourcegenerator
     Version: 3.0.1
+  - Name: cn.etetet.soulresonance
+    Version: 
   - Name: cn.etetet.router
     Version: 3.0.0
   - Name: cn.etetet.referencecollector
@@ -184,5 +186,5 @@ MonoBehaviour:
   - Name: cn.etetet.packagemanager
     Version: 1.0.5
   BanPackageInfo: []
-  LastUpdateTime: 1752489212
+  LastUpdateTime: 1752584705
   UpdateInterval: 3600

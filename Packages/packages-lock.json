@@ -129,6 +129,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "cn.etetet.soulresonance": {
+      "version": "file:cn.etetet.soulresonance",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.sourcegenerator": {
       "version": "file:cn.etetet.sourcegenerator",
       "depth": 0,
@@ -561,7 +567,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.toonshader": {
-      "version": "0.11.0-preview",
+      "version": "0.11.1-preview",
       "depth": 0,
       "source": "registry",
       "dependencies": {
