@@ -176,7 +176,7 @@ MonoBehaviour:
   - Name: cn.etetet.yiuistatesync
     Version: 2.0.0
   - Name: cn.etetet.yiuiluban
-    Version: 3.0.0
+    Version: 3.0.1
   - Name: cn.etetet.yiuilocalizationpro
     Version: 2.0.0
   - Name: cn.etetet.yiuiframework
@@ -185,6 +185,8 @@ MonoBehaviour:
     Version: 3.0.11
   - Name: cn.etetet.packagemanager
     Version: 1.0.5
+  - Name: cn.etetet.excel
+    Version: 3.0.0
   BanPackageInfo: []
-  LastUpdateTime: 1752584705
+  LastUpdateTime: 1752671851
   UpdateInterval: 3600

@@ -21,7 +21,7 @@ namespace YIUI.Luban.Editor
             if (string.IsNullOrEmpty(createPackage)) return;
 
             var sourceFolder      = $"{LubanTemplate}/cn.etetet.yiui/Editor/Luban";
-            var targetPackagePath = $"{PackagesPath}/{createPackage}/Assets/Editor/Luban";
+            var targetPackagePath = $"{PackagesPath}/{createPackage}/Luban/Config";
 
             if (!Directory.Exists($"{PackagesPath}/{createPackage}"))
             {

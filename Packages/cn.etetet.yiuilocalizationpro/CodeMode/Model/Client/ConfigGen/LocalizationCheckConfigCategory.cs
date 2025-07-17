@@ -13,7 +13,7 @@ using System.Collections.Generic;
 namespace ET
 {
 
-    [Config]
+    // [Config] // 导出不了多语言pro配置导致问题 
     public partial class LocalizationCheckConfigCategory : Singleton<LocalizationCheckConfigCategory>, ILubanConfig
     {
         private readonly Dictionary<string, LocalizationCheckConfig> _dataMap;

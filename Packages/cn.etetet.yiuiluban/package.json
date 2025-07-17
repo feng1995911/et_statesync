@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.yiuiluban",
   "displayName": "ET.YIUI.Luban",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "unity": "2022.3",
   "category": "Config/Luban|UI/YIUI",
   "description": "Luban 配置工具 >>> 文档: https://lib9kmxvq7k.feishu.cn/wiki/W1ylwC9xDip1YQk4eijcxgO9nh0",
@@ -18,5 +18,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
   },
-  "_fingerprint": "846428971a3e5c9328f1d8eda79e5a37603dbcdb"
+  "_fingerprint": "d65eb24e9c55c170f8194c70620e33dc08f5509f"
 }
