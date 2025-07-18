@@ -213,6 +213,24 @@
         "cn.etetet.yiuiframework": "2.0.0"
       }
     },
+    "cn.etetet.yiuicondition": {
+      "version": "file:cn.etetet.yiuicondition",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuiconditionconfig": {
+      "version": "file:cn.etetet.yiuiconditionconfig",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuiconditiondemo": {
+      "version": "file:cn.etetet.yiuiconditiondemo",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.yiuieffect": {
       "version": "file:cn.etetet.yiuieffect",
       "depth": 0,

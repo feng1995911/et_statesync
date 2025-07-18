@@ -2,6 +2,7 @@
   "dependencies": {
     "cn.etetet.packagemanager": "1.0.5",
     "cn.etetet.statesync": "3.0.11",
+    "cn.etetet.yiuicondition": "3.1.1",
     "cn.etetet.yiuiframework": "2.0.3",
     "cn.etetet.yiuilocalizationpro": "2.0.0",
     "cn.etetet.yiuiluban": "3.0.1",
