@@ -60,4 +60,12 @@
     <ItemGroup>
         <CompilerVisibleProperty Include="DotNetAssembly" />
     </ItemGroup>
+    <ItemGroup>
+      <Folder Include="..\..\..\cn.etetet.yiuiconditionconfig\CodeMode\Model\Server\">
+        <Link>cn.etetet.yiuiconditionconfig\CodeMode\Model\Server</Link>
+      </Folder>
+      <Folder Include="..\..\..\cn.etetet.yiuilocalizationpro\CodeMode\Model\Server\">
+        <Link>cn.etetet.yiuilocalizationpro\CodeMode\Model\Server</Link>
+      </Folder>
+    </ItemGroup>
 </Project>

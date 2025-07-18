@@ -18,7 +18,7 @@ namespace YIUIFramework.Editor
     {
         private static string GetSourceXlsxResPath()
         {
-            var sourcePath = "Packages/cn.etetet.yiuilocalizationpro/Assets/Editor/Luban/Datas";
+            var sourcePath = "Packages/cn.etetet.yiuilocalizationpro/Luban/Config/Datas";
             var projPath = EditorHelper.GetProjPath(sourcePath);
             var path = $"{projPath}/{I2LocalizeHelper.I2ResAssetNamePrefix}{UII2LocalizationModule.UII2SourceResName}.xlsx";
             return path;
@@ -359,7 +359,7 @@ namespace YIUIFramework.Editor
             WriteTextToProj($"{Application.dataPath}/../{CheckDefinesOutPath}/LocalizationCheck.json", content);
         }
 
-        private const string CheckDefinesOutPath = "Packages/cn.etetet.yiuilocalizationpro/Assets/Editor/Luban/Datas";
+        private const string CheckDefinesOutPath = "Packages/cn.etetet.yiuilocalizationpro/Luban/Config/Datas";
 
         private static bool WriteTextToProj(string path, string clsStr)
         {

@@ -48,7 +48,7 @@ namespace YIUI.Luban.Editor
 
         public static void SelectLubanFolder(string packageName)
         {
-            var obj = AssetDatabase.LoadAssetAtPath<UnityEngine.Object>($"Packages/{packageName}/Assets/Editor/Luban");
+            var obj = AssetDatabase.LoadAssetAtPath<UnityEngine.Object>($"Packages/{packageName}/Luban/Config");
             EditorGUIUtility.PingObject(obj);
             Selection.activeObject = obj;
         }

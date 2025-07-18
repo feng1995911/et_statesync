@@ -19,8 +19,8 @@ namespace YIUI.Luban.Editor
             var sourceFolder = $"{LubanTemplate}/{yiuilubandemoName}";
             var targetFolder = yiuilubandemoPackagePath;
             if (!CopyFolder.Copy(sourceFolder, targetFolder)) return;
-            CreateNullDirectory($"{targetFolder}/Assets/Editor/Luban/Datas");
-            CreateNullDirectory($"{targetFolder}/Assets/Editor/Luban/Base/Defines");
+            CreateNullDirectory($"{targetFolder}/Luban/Config/Datas");
+            CreateNullDirectory($"{targetFolder}/Luban/Config/Base/Defines");
 
             CloseWindowRefresh?.Invoke();
             UnityTipsHelper.Show("LubanDemo 创建完毕");

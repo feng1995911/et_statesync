@@ -2,6 +2,7 @@
     "name": "ET.HotfixView",
     "rootNamespace": "ET",
     "references": [
+        "DamageNumbersPro",
         "ET.Core",
         "ET.Hotfix",
         "ET.Init",

@@ -4,7 +4,7 @@
 WORKSPACE="Packages/cn.etetet.yiuiluban"
 WORKSPACEGEN="Packages/cn.etetet.yiuilubangen"
 GEN_CLIENT="$WORKSPACE/.Tools/Luban/Luban.dll"
-CONF_ROOT="$WORKSPACEGEN/Assets/Editor/Luban/Base"
+CONF_ROOT="$WORKSPACEGEN/Luban/Config/Base"
 CUSTOM="$WORKSPACE/.ToolsGen/Custom"
 
 # 客户端

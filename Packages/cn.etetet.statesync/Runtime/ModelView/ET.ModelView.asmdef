@@ -2,6 +2,7 @@
     "name": "ET.ModelView",
     "rootNamespace": "ET",
     "references": [
+        "DamageNumbersPro",
         "ET.Core",
         "ET.Init",
         "ET.Loader",

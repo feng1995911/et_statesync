@@ -22,7 +22,7 @@ namespace ET.Client
         [YIUIInvoke]
         private static void ConditionResult(this ConditionDemoComponent self, long instanceId, bool arg1, string arg2)
         {
-            Log.Error($"条件判断: 结果:{arg1}  失败原因:{arg2}");
+            Log.Warning($"条件判断: 结果:{arg1}  失败原因:{arg2}");
         }
 
         [EntitySystem]
