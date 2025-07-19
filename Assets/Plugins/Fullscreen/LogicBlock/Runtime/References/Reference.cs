@@ -55,13 +55,13 @@ namespace Fullscreen.LogicBlock.Runtime
 
         //<Shooter>
 [SerializeField] private PropertyGetWeapon m_ShooterWeapon = GetWeaponShooterInstance.Create();
-   //</Shooter>
+  //</Shooter>
 
         //<Melee>
 [SerializeField] private PropertyGetWeapon m_MeleeWeapon = GetWeaponMeleeInstance.Create();
 [SerializeField] private PropertyGetShield m_Shield = new PropertyGetShield();
 [SerializeField] private PropertyGetSkill m_Skill = new PropertyGetSkill();
-     //</Melee>
+    //</Melee>
 
         //<Stats>
 [SerializeField] private PropertyGetAttribute m_Attribute = new PropertyGetAttribute();
@@ -102,13 +102,13 @@ public PropertyGetQuest Quest => m_Quest;
 
         //<Shooter>
 public PropertyGetWeapon ShooterWeapon => m_ShooterWeapon;
-   //</Shooter>
+  //</Shooter>
 
         //<Melee>
 public PropertyGetWeapon MeleeWeapon => m_MeleeWeapon;
 public PropertyGetShield Shield => m_Shield;
 public PropertyGetSkill Skill => m_Skill;
-     //</Melee>
+    //</Melee>
 
         //<Stats>
 public PropertyGetAttribute Attribute => m_Attribute;
@@ -195,19 +195,19 @@ case ReferenceWrapper.ReferenceType.Quest:
 case ReferenceWrapper.ReferenceType.ShooterWeapon:
 m_ShooterWeapon = GetWeaponShooterInstance.Create();
 break;
-           //</Shooter>
+          //</Shooter>
 
                 //<Melee>
 case ReferenceWrapper.ReferenceType.MeleeWeapon:
- m_MeleeWeapon = GetWeaponMeleeInstance.Create();
- break;
+m_MeleeWeapon = GetWeaponMeleeInstance.Create();
+break;
 case ReferenceWrapper.ReferenceType.Shield:
- m_Shield = GetShieldMeleeInstance.Create();
- break;
+m_Shield = GetShieldMeleeInstance.Create();
+break;
 case ReferenceWrapper.ReferenceType.Skill:
- m_Skill = new PropertyGetSkill();
- break;
-             //</Melee>
+m_Skill = new PropertyGetSkill();
+break;
+            //</Melee>
 
                 //<Stats>
 case ReferenceWrapper.ReferenceType.Attribute:

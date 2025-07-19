@@ -3,13 +3,14 @@ using UnityEngine;
 using GameCreator.Runtime.Common;
 using GameCreator.Runtime.VisualScripting;
 using GameCreator.Runtime.Characters;
+using GameCreator.Runtime.Melee;
 
 
 namespace Fullscreen.LogicBlock.Runtime
 {
     [Title("Block Melee Weapon Reference")]
     [Category("LogicBlock/Block Melee Weapon Reference")]
-    [Image(typeof(IconBlock), ColorTheme.Type.TextLight)]
+    [Image(typeof(IconMeleeSword), ColorTheme.Type.TextLight)]
     [Description("A weapon melee reference from a Block")]
     [Serializable]
     [HideLabelsInEditor]

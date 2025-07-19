@@ -338,9 +338,22 @@ namespace Fullscreen.LogicBlock.Editor
 
         private void UpdateReferencesUI(VisualElement container, SerializedProperty referencesProp, SerializedProperty property, SerializedProperty blockProp)
         {
+            if (container == null || referencesProp == null || property == null || blockProp == null)
+            {
+                if (container != null)
+                    container.Add(new Label("Error: Invalid parameters") { style = { color = Color.red } });
+                return;
+            }
+
+            if (property.type != "managedReference<InstructionRunBlockInstructionList>" && 
+                !property.managedReferenceFullTypename.Contains("Fullscreen.LogicBlock.Runtime.InstructionRunBlockInstructionList"))
+            {
+                return;
+            }
+
             container.Clear();
 
-            if (referencesProp == null || !referencesProp.isArray || property?.serializedObject == null || property.serializedObject.targetObject == null)
+            if (!referencesProp.isArray || property.serializedObject == null || property.serializedObject.targetObject == null)
             {
                 container.Add(new Label("Error: Invalid references or property") { style = { color = Color.red } });
                 return;

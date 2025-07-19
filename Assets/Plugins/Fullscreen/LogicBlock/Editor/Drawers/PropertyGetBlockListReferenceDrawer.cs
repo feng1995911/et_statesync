@@ -99,7 +99,7 @@ namespace Fullscreen.LogicBlock.Editor
                         return ReferenceWrapper.ReferenceType.GameObject;
                     case string s when s.Contains("PropertyGetString"):
                         return ReferenceWrapper.ReferenceType.String;
-                    case string s when s.Contains("PropertyGetDecimal") || s.Contains("PropertyGetNumber"):
+                   case string s when s.Contains("PropertyGetDecimal") || s.Contains("PropertyGetNumber") || s.Contains("PropertyGetInteger"):
                         return ReferenceWrapper.ReferenceType.Number;
                     case string s when s.Contains("PropertyGetBool"):
                         return ReferenceWrapper.ReferenceType.Boolean;
@@ -136,7 +136,18 @@ namespace Fullscreen.LogicBlock.Editor
                     case string s when s.Contains("PropertyGetQuest"):
                         return ReferenceWrapper.ReferenceType.Quest;
                     case string s when s.Contains("PropertyGetWeapon"):
+                    {
+                        SerializedProperty getBlock = parentProperty.FindPropertyRelative("m_Property");
+                        if (getBlock != null && !string.IsNullOrEmpty(getBlock.managedReferenceFullTypename))
+                        {
+                            string blockTypeName = getBlock.managedReferenceFullTypename;
+                            if (blockTypeName.EndsWith("BlockGetShooterWeaponReference") || blockTypeName.Contains("BlockGetShooterWeaponReference"))
+                                return ReferenceWrapper.ReferenceType.ShooterWeapon;
+                            if (blockTypeName.EndsWith("BlockGetMeleeWeaponReference") || blockTypeName.Contains("BlockGetMeleeWeaponReference"))
+                                return ReferenceWrapper.ReferenceType.MeleeWeapon;
+                        }
                         return ReferenceWrapper.ReferenceType.ShooterWeapon;
+                    }
                     case string s when s.Contains("PropertyGetShield"):
                         return ReferenceWrapper.ReferenceType.Shield;
                     case string s when s.Contains("PropertyGetSkill"):
