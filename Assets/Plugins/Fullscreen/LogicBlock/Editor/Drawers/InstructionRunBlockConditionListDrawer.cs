@@ -355,9 +355,15 @@ namespace Fullscreen.LogicBlock.Editor
                 return;
             }
 
+            if (property.type != "managedReference<InstructionRunBlockConditionList>" && 
+                !property.managedReferenceFullTypename.Contains("Fullscreen.LogicBlock.Runtime.InstructionRunBlockConditionList"))
+            {
+                return;
+            }
+
             container.Clear();
 
-            if (referencesProp == null || !referencesProp.isArray || property?.serializedObject == null || property.serializedObject.targetObject == null)
+            if (!referencesProp.isArray || property.serializedObject == null || property.serializedObject.targetObject == null)
             {
                 container.Add(new Label("Error: Invalid references or property") { style = { color = Color.red } });
                 return;

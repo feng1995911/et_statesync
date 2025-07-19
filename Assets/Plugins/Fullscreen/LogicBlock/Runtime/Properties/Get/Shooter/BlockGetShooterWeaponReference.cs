@@ -3,13 +3,14 @@ using UnityEngine;
 using GameCreator.Runtime.Common;
 using GameCreator.Runtime.VisualScripting;
 using GameCreator.Runtime.Characters;
+using GameCreator.Runtime.Shooter;
 
 
 namespace Fullscreen.LogicBlock.Runtime
 {
     [Title("Block Shooter Weapon Reference")]
     [Category("LogicBlock/Block Shooter Weapon Reference")]
-    [Image(typeof(IconBlock), ColorTheme.Type.TextLight)]
+    [Image(typeof(IconPistol), ColorTheme.Type.TextLight)]
     [Description("A weapon shooter reference from a Block")]
     [Serializable]
     [HideLabelsInEditor]

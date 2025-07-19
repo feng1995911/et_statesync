@@ -149,12 +149,12 @@ namespace Fullscreen.LogicBlock.Editor
          //</Quests>
             //<Shooter>
 { ReferenceWrapper.ReferenceType.ShooterWeapon, typeof(PropertyGetWeapon) },
-       //</Shooter>
+      //</Shooter>
             //<Melee>
 { ReferenceWrapper.ReferenceType.MeleeWeapon, typeof(PropertyGetWeapon) },
 { ReferenceWrapper.ReferenceType.Shield, typeof(PropertyGetShield) },
 { ReferenceWrapper.ReferenceType.Skill, typeof(PropertyGetSkill) },
-         //</Melee>
+        //</Melee>
             //<Stats>
 { ReferenceWrapper.ReferenceType.Attribute, typeof(PropertyGetAttribute) },
 { ReferenceWrapper.ReferenceType.Formula, typeof(PropertyGetFormula) },
@@ -192,12 +192,12 @@ namespace Fullscreen.LogicBlock.Editor
          //</Quests>
             //<Shooter>
 { ReferenceWrapper.ReferenceType.ShooterWeapon, typeof(IconPistol) },
-       //</Shooter>
+      //</Shooter>
             //<Melee>
 { ReferenceWrapper.ReferenceType.MeleeWeapon, typeof(IconMeleeSword) },
 { ReferenceWrapper.ReferenceType.Shield, typeof(IconShieldSolid) },
 { ReferenceWrapper.ReferenceType.Skill, typeof(IconMeleeSkill) },
-         //</Melee>
+        //</Melee>
             //<Stats>
 { ReferenceWrapper.ReferenceType.Attribute, typeof(IconAttr) },
 { ReferenceWrapper.ReferenceType.Formula, typeof(IconFormula) },
@@ -416,7 +416,7 @@ namespace Fullscreen.LogicBlock.Editor
 case ReferenceWrapper.ReferenceType.ShooterWeapon:
 prop.boxedValue = GetWeaponShooterInstance.Create();
 break;
-                   //</Shooter>
+                  //</Shooter>
                         //<Melee>
 case ReferenceWrapper.ReferenceType.MeleeWeapon:
 prop.boxedValue = GetWeaponMeleeInstance.Create();
@@ -424,7 +424,7 @@ break;
 case ReferenceWrapper.ReferenceType.Shield:
 prop.boxedValue = GetShieldMeleeInstance.Create();
 break;
-                     //</Melee>
+                    //</Melee>
                         default:
                             prop.boxedValue = Activator.CreateInstance(type);
                             break;

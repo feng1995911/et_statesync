@@ -55,13 +55,13 @@ namespace Fullscreen.LogicBlock.Runtime
           { ReferenceWrapper.ReferenceType.Quest, (block, listId, name) => BlockGetQuestReference.Create(block, listId, name) },
          //</Quests>
             //<Shooter>
-        { ReferenceWrapper.ReferenceType.ShooterWeapon, (block, listId, name) => BlockGetShooterWeaponReference.Create(block, listId, name) },
-       //</Shooter>
+       { ReferenceWrapper.ReferenceType.ShooterWeapon, (block, listId, name) => BlockGetShooterWeaponReference.Create(block, listId, name) },
+      //</Shooter>
             //<Melee>
-          { ReferenceWrapper.ReferenceType.MeleeWeapon, (block, listId, name) => BlockGetMeleeWeaponReference.Create(block, listId, name) },
-          { ReferenceWrapper.ReferenceType.Shield, (block, listId, name) => BlockGetShieldReference.Create(block, listId, name) },
-          { ReferenceWrapper.ReferenceType.Skill, (block, listId, name) => BlockGetSkillReference.Create(block, listId, name) },
-         //</Melee>
+         { ReferenceWrapper.ReferenceType.MeleeWeapon, (block, listId, name) => BlockGetMeleeWeaponReference.Create(block, listId, name) },
+         { ReferenceWrapper.ReferenceType.Shield, (block, listId, name) => BlockGetShieldReference.Create(block, listId, name) },
+         { ReferenceWrapper.ReferenceType.Skill, (block, listId, name) => BlockGetSkillReference.Create(block, listId, name) },
+        //</Melee>
             //<Stats>
           { ReferenceWrapper.ReferenceType.Attribute, (block, listId, name) => BlockGetAttributeReference.Create(block, listId, name) },
           { ReferenceWrapper.ReferenceType.Formula, (block, listId, name) => BlockGetFormulaReference.Create(block, listId, name) },
@@ -220,34 +220,34 @@ namespace Fullscreen.LogicBlock.Runtime
                   break;
                  //</Quests>
                     //<Shooter>
-                case ReferenceWrapper.ReferenceType.ShooterWeapon:
-                IWeapon iWeapon = prop.ShooterWeapon.Get(args);
-                if (iWeapon is ShooterWeapon shooterWeapon)
-                {
-                storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shooterWeapon);
-                }
-                break;
-               //</Shooter>
+               case ReferenceWrapper.ReferenceType.ShooterWeapon:
+               IWeapon iWeapon = prop.ShooterWeapon.Get(args);
+               if (iWeapon is ShooterWeapon shooterWeapon)
+               {
+               storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shooterWeapon);
+               }
+               break;
+              //</Shooter>
                     //<Melee>
-                  case ReferenceWrapper.ReferenceType.MeleeWeapon:
-                  IWeapon iMeleeWeapon = prop.MeleeWeapon.Get(args);
-                  if (iMeleeWeapon is MeleeWeapon meleeWeapon)
-                  {
-                  storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, meleeWeapon);
-                  }
-                  break;
-                  case ReferenceWrapper.ReferenceType.Shield:
-                  IShield iShield = prop.Shield.Get(args);
-                  if (iShield is Shield shield)
-                  {
-                  storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shield);
-                  }
-                  break;
-                  case ReferenceWrapper.ReferenceType.Skill:
-                  Skill skill = prop.Skill.Get(args);
-                  storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, skill);
-                  break;
-                 //</Melee>
+                 case ReferenceWrapper.ReferenceType.MeleeWeapon:
+                 IWeapon iMeleeWeapon = prop.MeleeWeapon.Get(args);
+                 if (iMeleeWeapon is MeleeWeapon meleeWeapon)
+                 {
+                 storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, meleeWeapon);
+                 }
+                 break;
+                 case ReferenceWrapper.ReferenceType.Shield:
+                 IShield iShield = prop.Shield.Get(args);
+                 if (iShield is Shield shield)
+                 {
+                 storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shield);
+                 }
+                 break;
+                 case ReferenceWrapper.ReferenceType.Skill:
+                 Skill skill = prop.Skill.Get(args);
+                 storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, skill);
+                 break;
+                //</Melee>
                     //<Stats>
                   case ReferenceWrapper.ReferenceType.Attribute:
                   GameCreator.Runtime.Stats.Attribute attribute = prop.Attribute.Get(args);
@@ -388,34 +388,34 @@ namespace Fullscreen.LogicBlock.Runtime
                   break;
                  //</Quests>
                     //<Shooter>
-                case ReferenceWrapper.ReferenceType.ShooterWeapon:
-                IWeapon iWeapon = prop.ShooterWeapon.Get(args);
-                if (iWeapon is ShooterWeapon shooterWeapon)
-                {
-                    storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shooterWeapon);
-                }
-                break;
-               //</Shooter>
+               case ReferenceWrapper.ReferenceType.ShooterWeapon:
+               IWeapon iWeapon = prop.ShooterWeapon.Get(args);
+               if (iWeapon is ShooterWeapon shooterWeapon)
+               {
+                   storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shooterWeapon);
+               }
+               break;
+              //</Shooter>
                     //<Melee>
-                  case ReferenceWrapper.ReferenceType.MeleeWeapon:
-                  IWeapon iMeleeWeapon = prop.MeleeWeapon.Get(args);
-                  if (iMeleeWeapon is MeleeWeapon meleeWeapon)
-                  {
-                      storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, meleeWeapon);
-                  }
-                  break;
-                  case ReferenceWrapper.ReferenceType.Shield:
-                  IShield iShield = prop.Shield.Get(args);
-                  if (iShield is Shield shield)
-                  {
-                      storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shield);
-                  }
-                  break;
-                  case ReferenceWrapper.ReferenceType.Skill:
-                  Skill skill = prop.Skill.Get(args);
-                  storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, skill);
-                  break;
-                 //</Melee>
+                 case ReferenceWrapper.ReferenceType.MeleeWeapon:
+                 IWeapon iMeleeWeapon = prop.MeleeWeapon.Get(args);
+                 if (iMeleeWeapon is MeleeWeapon meleeWeapon)
+                 {
+                     storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, meleeWeapon);
+                 }
+                 break;
+                 case ReferenceWrapper.ReferenceType.Shield:
+                 IShield iShield = prop.Shield.Get(args);
+                 if (iShield is Shield shield)
+                 {
+                     storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, shield);
+                 }
+                 break;
+                 case ReferenceWrapper.ReferenceType.Skill:
+                 Skill skill = prop.Skill.Get(args);
+                 storage.UpdateReference(targetList.UniqueId, prop.ReferenceName, skill);
+                 break;
+                //</Melee>
                     //<Stats>
                   case ReferenceWrapper.ReferenceType.Attribute:
                   GameCreator.Runtime.Stats.Attribute attribute = prop.Attribute.Get(args);
@@ -702,13 +702,13 @@ namespace Fullscreen.LogicBlock.Runtime
               "BlockGetQuestReference" => ReferenceWrapper.ReferenceType.Quest,
              //</Quests>
                 //<Shooter>
-            "BlockGetShooterWeaponReference" => ReferenceWrapper.ReferenceType.ShooterWeapon,
-           //</Shooter>
+           "BlockGetShooterWeaponReference" => ReferenceWrapper.ReferenceType.ShooterWeapon,
+          //</Shooter>
                 //<Melee>
-              "BlockGetMeleeWeaponReference" => ReferenceWrapper.ReferenceType.MeleeWeapon,
-              "BlockGetShieldReference" => ReferenceWrapper.ReferenceType.Shield,
-              "BlockGetSkillReference" => ReferenceWrapper.ReferenceType.Skill,
-             //</Melee>
+             "BlockGetMeleeWeaponReference" => ReferenceWrapper.ReferenceType.MeleeWeapon,
+             "BlockGetShieldReference" => ReferenceWrapper.ReferenceType.Shield,
+             "BlockGetSkillReference" => ReferenceWrapper.ReferenceType.Skill,
+            //</Melee>
                 //<Stats>
               "BlockGetAttributeReference" => ReferenceWrapper.ReferenceType.Attribute,
               "BlockGetFormulaReference" => ReferenceWrapper.ReferenceType.Formula,

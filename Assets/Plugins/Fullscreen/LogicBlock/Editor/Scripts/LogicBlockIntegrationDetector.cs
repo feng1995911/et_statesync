@@ -15,7 +15,7 @@ namespace Fullscreen.LogicBlock.Editor
         private const string QuestsPackagePath = "Assets/Plugins/Fullscreen/LogicBlock/Integration/QuestsIntegration.unitypackage";
         private const string StatsPackagePath = "Assets/Plugins/Fullscreen/LogicBlock/Integration/StatsIntegration.unitypackage";
 
-        private static readonly string DetectionFilePath = Path.Combine(Application.dataPath, "Plugins/Fullscreen/LogicBlock/Integration/Detected.v1.0.1.txt");
+        private static readonly string DetectionFilePath = Path.Combine(Application.dataPath, "Plugins/Fullscreen/LogicBlock/Integration/Detected.v1.0.5.txt");
         private static readonly string[] ScriptsToProcess = new[]
         {
             "Assets/Plugins/Fullscreen/LogicBlock/Runtime/Scripts/InstructionBlockHandler.cs",
