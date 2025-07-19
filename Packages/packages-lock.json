@@ -37,10 +37,11 @@
       "dependencies": {}
     },
     "cn.etetet.excel": {
-      "version": "file:cn.etetet.excel",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "version": "3.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://npm.pkg.github.com/@ET-Packages"
     },
     "cn.etetet.http": {
       "version": "file:cn.etetet.http",
@@ -128,6 +129,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "cn.etetet.soulresonance": {
+      "version": "file:cn.etetet.soulresonance",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.sourcegenerator": {
       "version": "file:cn.etetet.sourcegenerator",
       "depth": 0,
@@ -206,6 +213,36 @@
         "cn.etetet.yiuiframework": "2.0.0"
       }
     },
+    "cn.etetet.yiuiaudio": {
+      "version": "file:cn.etetet.yiuiaudio",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuicondition": {
+      "version": "file:cn.etetet.yiuicondition",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuiconditionconfig": {
+      "version": "file:cn.etetet.yiuiconditionconfig",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuiconditiondemo": {
+      "version": "file:cn.etetet.yiuiconditiondemo",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuidamagetips": {
+      "version": "file:cn.etetet.yiuidamagetips",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.yiuieffect": {
       "version": "file:cn.etetet.yiuieffect",
       "depth": 0,
@@ -223,6 +260,12 @@
         "cn.etetet.yiuiinvoke": "4.0.0"
       }
     },
+    "cn.etetet.yiuigameobjectpool": {
+      "version": "file:cn.etetet.yiuigameobjectpool",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.yiuigm": {
       "version": "file:cn.etetet.yiuigm",
       "depth": 0,
@@ -238,6 +281,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "cn.etetet.yiuilocalizationpro": {
+      "version": "file:cn.etetet.yiuilocalizationpro",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.yiuiloopscrollrectasync": {
       "version": "file:cn.etetet.yiuiloopscrollrectasync",
       "depth": 0,
@@ -245,6 +294,18 @@
       "dependencies": {
         "cn.etetet.yiuiframework": "2.0.0"
       }
+    },
+    "cn.etetet.yiuiluban": {
+      "version": "file:cn.etetet.yiuiluban",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuilubangen": {
+      "version": "file:cn.etetet.yiuilubangen",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "cn.etetet.yiuireddot": {
       "version": "file:cn.etetet.yiuireddot",
@@ -324,8 +385,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.18",
-      "depth": 2,
+      "version": "1.8.19",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
@@ -334,13 +395,14 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collections": {
-      "version": "2.5.1",
-      "depth": 2,
+      "version": "2.5.7",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.burst": "1.8.17",
-        "com.unity.test-framework": "1.4.5",
-        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.burst": "1.8.19",
+        "com.unity.mathematics": "1.3.2",
+        "com.unity.test-framework": "1.4.6",
+        "com.unity.nuget.mono-cecil": "1.11.5",
         "com.unity.test-framework.performance": "3.0.3"
       },
       "url": "https://packages.unity.com"
@@ -350,6 +412,16 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.film-internal-utilities": {
+      "version": "0.19.2-preview",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.2.18",
+        "com.unity.modules.uielements": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
@@ -369,9 +441,18 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.inputsystem": {
+      "version": "1.11.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.mathematics": {
       "version": "1.3.2",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -385,8 +466,8 @@
       }
     },
     "com.unity.nuget.mono-cecil": {
-      "version": "1.11.4",
-      "depth": 3,
+      "version": "1.11.5",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -396,6 +477,15 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.postprocessing": {
+      "version": "3.4.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
@@ -450,14 +540,14 @@
     },
     "com.unity.searcher": {
       "version": "4.9.2",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
       "version": "17.0.3",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "17.0.3",
@@ -472,7 +562,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.4.5",
+      "version": "1.4.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -484,13 +574,21 @@
     },
     "com.unity.test-framework.performance": {
       "version": "3.0.3",
-      "depth": 3,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.31",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.unity.textmeshpro": {
+      "version": "3.0.9",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      }
     },
     "com.unity.timeline": {
       "version": "1.8.7",
@@ -501,6 +599,16 @@
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.toonshader": {
+      "version": "0.11.1-preview",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "10.0.0",
+        "com.unity.film-internal-utilities": "0.19.2-preview"
       },
       "url": "https://packages.unity.com"
     },

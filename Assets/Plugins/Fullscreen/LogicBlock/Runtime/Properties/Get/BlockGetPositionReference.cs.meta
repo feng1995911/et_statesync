@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 58a056ea06364a6429d758a377b737a8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Properties/Get/BlockGetPositionReference.cs
+  uploadId: 768745

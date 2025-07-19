@@ -2,6 +2,7 @@
     "name": "ET.ModelView",
     "rootNamespace": "ET",
     "references": [
+        "DamageNumbersPro",
         "ET.Core",
         "ET.Init",
         "ET.Loader",
@@ -11,6 +12,7 @@
         "ET.UI",
         "ET.YIUIFramework",
         "ET.YooAssets",
+        "UISoulResonance",
         "Unity.Mathematics",
         "Unity.TextMeshPro"
     ],

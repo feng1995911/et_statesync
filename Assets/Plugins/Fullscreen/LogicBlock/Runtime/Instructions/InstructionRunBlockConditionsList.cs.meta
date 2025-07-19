@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: db31e361e2ca3b0458960687b861bb7e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Instructions/InstructionRunBlockConditionsList.cs
+  uploadId: 768745

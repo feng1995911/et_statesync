@@ -1,0 +1,18 @@
+[
+  {
+    "groupId": "A2D_Login_Bgm_2D",
+    "AudioNames": [
+      "Audio_Login_BGM"
+    ],
+    "Volume": 1,
+    "PlayNumMin": 1,
+    "PlayNumMax": 1,
+    "SpatialBlend": 0,
+    "DistanceMin": 500,
+    "DistanceMax": 800,
+    "IntervalTimeMin": 0,
+    "IntervalTimeMax": 0,
+    "NextTimeMin": 0,
+    "NextTimeMax": 1
+  }
+]

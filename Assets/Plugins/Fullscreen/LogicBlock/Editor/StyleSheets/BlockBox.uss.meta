@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d9a97b86ce280a343bd60393a5617900
+timeCreated: 1683122202
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Editor/StyleSheets/BlockBox.uss
+  uploadId: 768745

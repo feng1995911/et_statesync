@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 363673f6490f3e944812bc154266856f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Properties/Get/BlockGetSpriteReference.cs
+  uploadId: 768745

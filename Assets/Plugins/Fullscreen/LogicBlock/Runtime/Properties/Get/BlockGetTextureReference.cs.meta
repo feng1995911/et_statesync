@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7ee45ad9e39913c46b3d2634a7660921
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Properties/Get/BlockGetTextureReference.cs
+  uploadId: 768745

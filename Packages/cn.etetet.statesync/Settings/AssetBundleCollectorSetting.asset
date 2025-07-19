@@ -55,8 +55,8 @@ MonoBehaviour:
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Packages/cn.etetet.excel/Config/Bytes/c
-        CollectorGUID: 1f8da9b8d3bb3ca469a7f4c383b6a731
+      - CollectPath: Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client
+        CollectorGUID: 26c31ec141cae8a42adb57d50d2bfe41
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
@@ -173,6 +173,66 @@ MonoBehaviour:
         UserData: 
       - CollectPath: Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI
         CollectorGUID: 390e2414befd53e4e83c786dc51e17eb
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: I2
+      GroupDesc: "\u591A\u8BED\u8A00"
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Packages/cn.etetet.yiuilocalizationpro/Assets/GameRes/I2Localization
+        CollectorGUID: c4920432a4d094241a7ac5e7736f1313
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: SRUI
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Packages/cn.etetet.soulresonance/Assets
+        CollectorGUID: c762f20925793b84e85b6a43e1617d51
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: DamageTips
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Packages/cn.etetet.yiuidamagetips/Assets/GameRes/YIUI/DamageTips
+        CollectorGUID: 311aad8ae48419d45b78495c883ec059
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Packages/cn.etetet.yiuidamagetips/Assets/GameRes/Damage
+        CollectorGUID: 6ae38966ad18c084fbbc3f4764f10cba
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: Audio
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Packages/cn.etetet.yiuiaudio/Assets/Audio
+        CollectorGUID: f436f81cb2e4eba48aacb42c9f4b5cfd
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory

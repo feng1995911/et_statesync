@@ -51,35 +51,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.demores
     - Name: DownloadValue
       Entry: 3
       Data: 2920
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "et\u81EA\u5E26demo\u7684\u4E00\u4E9B\u8D44\u6E90"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -102,35 +102,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.proto
     - Name: DownloadValue
       Entry: 3
-      Data: 2780
+      Data: 2790
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "proto2cs\u5DE5\u5177\uFF0C\u7528\u4E8E\u628Aproto\u6587\u4EF6\u5BFC\u51FA\u6210C#"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.2
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.2
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -153,35 +153,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.excel
     - Name: DownloadValue
       Entry: 3
       Data: 2620
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "excelexporter\u5DE5\u5177\uFF0C\u628Aexcel\u5BFC\u51FA\u6210\u4EE3\u7801\u8DDF\u914D\u7F6E\u6570\u636E"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -204,35 +204,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.core
     - Name: DownloadValue
       Entry: 3
-      Data: 2310
+      Data: 2320
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "et\u6846\u67B6\u6838\u5FC3, \u5B9E\u73B0\u4E86\u7EA4\u7A0B\uFF0C\u7F51\u7EDC\uFF0Centity\u7B49et\u57FA\u7840\u529F\u80FD"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.3
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.3
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -255,35 +255,36 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.loader
     - Name: DownloadValue
       Entry: 3
       Data: 2180
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "et\u6846\u67B6\u6838\u5FC3\uFF0C\u662F\u4E00\u4E2A\u52A0\u8F7D\u5668\uFF0C\u7528\u4E8E\u52A0\u8F7Dmodel
+        modelview hotfix hotfixview"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.1
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.1
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -306,35 +307,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.statesync
     - Name: DownloadValue
       Entry: 3
       Data: 2130
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: statesync demo
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.11
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.11
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -357,35 +358,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.packagemanager.git
     - Name: DownloadValue
       Entry: 3
-      Data: 2040
+      Data: 2050
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "ETPackageManager ET\u5305\u7BA1\u7406 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/DzqwwwBJvixRvtkCI4dcatGcnAd"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 1.0.5
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 1.0.5
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Core/Manager|UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -408,35 +409,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.actorlocation
     - Name: DownloadValue
       Entry: 3
       Data: 1900
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u5B9E\u73B0\u4E86actor location\u673A\u5236"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -459,35 +460,36 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Code Philosophy
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://code-philosophy.com
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.hybridclr
     - Name: DownloadValue
       Entry: 3
       Data: 1880
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: HybridCLR is a fully featured, zero-cost, high-performance, low-memory
+        solution for Unity's all-platform native c# hotupdate.
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 7.8.1
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 7.8.1
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Runtime
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -510,35 +512,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.console
     - Name: DownloadValue
       Entry: 3
-      Data: 1850
+      Data: 1860
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u5B9E\u73B0\u4E86\u63A7\u5236\u53F0\u89E3\u6790\u5206\u53D1"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -561,35 +563,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.netinner
     - Name: DownloadValue
       Entry: 3
-      Data: 1840
+      Data: 1850
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u5185\u7F51\u6D88\u606F\u6A21\u5757"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -612,35 +614,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.router
     - Name: DownloadValue
       Entry: 3
       Data: 1840
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "et\u7684\u8F6F\u8DEF\u7531\uFF0C\u53EF\u4EE5\u9632\u7F51\u7EDC\u653B\u51FB"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -663,35 +665,36 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.login
     - Name: DownloadValue
       Entry: 3
-      Data: 1820
+      Data: 1830
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u5B9E\u73B0\u524D\u540E\u7AEF\u767B\u5F55\u6D41\u7A0B\uFF0C\u5BA2\u6237\u7AEF\u7F51\u7EDC\u662F\u72EC\u7ACB\u7684\u7EA4\u7A0B\uFF0C\u670D\u52A1\u7AEF\u63D0\u4F9B\u4E86realm
+        gate scene"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -714,35 +717,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.http
     - Name: DownloadValue
       Entry: 3
-      Data: 1820
+      Data: 1830
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u7B80\u5355\u7684http\u5E93"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -765,35 +768,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.sourcegenerator
     - Name: DownloadValue
       Entry: 3
       Data: 1820
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "et\u6846\u67B6\u7684\u5206\u6790\u5668\u8DDF\u4EE3\u7801\u751F\u6210\u5668"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.1
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.1
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -816,35 +819,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.watcher
     - Name: DownloadValue
       Entry: 3
       Data: 1810
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u7528\u4E8E\u76D1\u89C6\u8FDB\u7A0B\uFF0C\u62C9\u8D77\u8FDB\u7A0B\uFF0C\u9632\u6B62\u8FDB\u7A0B\u6302\u6389"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -867,35 +870,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.startconfig
     - Name: DownloadValue
       Entry: 3
       Data: 1810
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u670D\u52A1\u5668\u8D77\u670D\u914D\u7F6E"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -918,35 +921,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: TuYoo Games
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/tuyoogame/YooAsset
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yooassets
     - Name: DownloadValue
       Entry: 3
       Data: 1800
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: unity3d resources management system.
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.3.6
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.3.6
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -969,35 +972,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.referencecollector
     - Name: DownloadValue
       Entry: 3
-      Data: 1790
+      Data: 1800
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u4E00\u4E2Aunity\u811A\u672C\uFF0C\u53EF\u4EE5\u6302\u5728gameobject\u4E0A\u5B9E\u73B0\u8D44\u6E90\u5F15\u7528"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1020,35 +1023,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.ui
     - Name: DownloadValue
       Entry: 3
       Data: 1780
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "et\u6846\u67B6\u5B9E\u73B0\u7684\u4E00\u4E2A\u7B80\u5355UI"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1071,35 +1074,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.move
     - Name: DownloadValue
       Entry: 3
       Data: 1570
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "mmo\u7C7B\u578B\u7684\u79FB\u52A8\u7EC4\u4EF6"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1122,35 +1125,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.unit
     - Name: DownloadValue
       Entry: 3
       Data: 1570
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u63D0\u4F9B\u4E00\u4E2A\u5305\u542B\u4F4D\u7F6E\u65CB\u8F6C\u7684entity\uFF0C\u53EF\u4EE5\u4F5C\u4E3A\u573A\u666F\u4E2D\u7684\u5B9E\u4F53"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1173,35 +1176,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.recast
     - Name: DownloadValue
       Entry: 3
-      Data: 1560
+      Data: 1570
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "3d recast\u5BFB\u8DEF\u5E93"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1224,35 +1227,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.aoi
     - Name: DownloadValue
       Entry: 3
-      Data: 1560
+      Data: 1570
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u4E00\u4E2A\u4E5D\u5BAB\u683C\u7684aoi\u5B9E\u73B0"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1275,35 +1278,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.numeric
     - Name: DownloadValue
       Entry: 3
-      Data: 1550
+      Data: 1560
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u4E00\u4E2A\u6570\u503C\u7EC4\u4EF6\uFF0C\u63D0\u4F9B\u4E86kv\u7684\u5B9E\u73B0"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1326,35 +1329,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.mathematics
     - Name: DownloadValue
       Entry: 3
       Data: 1460
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u4E00\u4E2A\u5BF9unity\u7684mathematics\u5305\u88C5\uFF0C\u4E3B\u8981\u662F\u589E\u52A0\u5BF9\u670D\u52A1\u7AEFdotnet\u7684\u652F\u6301"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.2
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.2
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1377,35 +1380,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.memorypack
     - Name: DownloadValue
       Entry: 3
-      Data: 1380
+      Data: 1390
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Copy From https://github.com/Cysharp/MemoryPack
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 1.10.1
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 1.10.1
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1428,35 +1431,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.ai
     - Name: DownloadValue
       Entry: 3
       Data: 1340
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u884C\u4E3A\u673A\u6A21\u5757\uFF0C\u7528\u6765\u5199ai\u975E\u5E38\u65B9\u4FBF"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1479,28 +1482,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.db
     - Name: DownloadValue
       Entry: 3
-      Data: 882
+      Data: 884
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u4E00\u4E2A\u7B80\u5355\u7684mongodb\u5C01\u88C5"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 1.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -1530,35 +1533,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuistatesync.git
     - Name: DownloadValue
       Entry: 3
-      Data: 745
+      Data: 747
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI Demo >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Demo/YIUI|UI/YIUI
     - Name: m_CanRemove
       Entry: 5
-      Data: false
+      Data: true
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1581,35 +1584,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuiframework.git
     - Name: DownloadValue
       Entry: 3
-      Data: 711
+      Data: 714
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI \u6846\u67B6 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.3
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.3
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1632,35 +1635,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuieffect.git
     - Name: DownloadValue
       Entry: 3
-      Data: 638
+      Data: 640
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI \u7279\u6548 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1683,35 +1686,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiui3ddisplay.git
     - Name: DownloadValue
       Entry: 3
-      Data: 629
+      Data: 631
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI UI\u4E0A\u5C55\u793A3D\u6A21\u578B >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1734,35 +1737,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuireddot.git
     - Name: DownloadValue
       Entry: 3
-      Data: 628
+      Data: 630
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI \u7EA2\u70B9 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1785,35 +1788,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuigm.git
     - Name: DownloadValue
       Entry: 3
-      Data: 621
+      Data: 623
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI GM\u547D\u4EE4 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1836,35 +1839,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuiyooassets.git
     - Name: DownloadValue
       Entry: 3
-      Data: 620
+      Data: 622
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI YooAssets >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1887,35 +1890,35 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuitips.git
     - Name: DownloadValue
       Entry: 3
-      Data: 608
+      Data: 610
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI \u63D0\u793A\u5F39\u7A97 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1938,35 +1941,36 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuiloopscrollrectasync.git
     - Name: DownloadValue
       Entry: 3
-      Data: 531
+      Data: 533
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI \u65E0\u9650\u5FAA\u73AF\u5217\u8868 (\u5F02\u6B65) >>> \u6587\u6863:
+        https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -1989,28 +1993,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.truesync
     - Name: DownloadValue
       Entry: 3
-      Data: 483
+      Data: 488
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u5E27\u540C\u6B65\u7528\u7684\u5B9A\u70B9\u6570\u5B9E\u73B0"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2040,28 +2044,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.lockstep
     - Name: DownloadValue
       Entry: 3
-      Data: 471
+      Data: 475
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u9884\u6D4B\u56DE\u6EDA\u7684\u5E27\u540C\u6B65demo"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.1
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2091,35 +2095,36 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuiinvoke.git
     - Name: DownloadValue
       Entry: 3
-      Data: 455
+      Data: 457
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u72EC\u7ACB\u529F\u80FD\u4E0D\u4F9D\u8D56YIUI \u6846\u67B6 >>> \u6587\u6863:
+        https://lib9kmxvq7k.feishu.cn/wiki/TpyYwbWIUizhfKkcubocTZgInse"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 4.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 4.0.0
     - Name: PackageCategory
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: UI/YIUI|Extend/Event
     - Name: m_CanRemove
       Entry: 5
       Data: false
     - Name: m_Install
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -2142,28 +2147,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.lsentity
     - Name: DownloadValue
       Entry: 3
-      Data: 426
+      Data: 430
     - Name: PackageDescription
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2193,28 +2198,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: IcePower
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET.git
     - Name: DownloadValue
       Entry: 3
       Data: 75
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: XET Demo
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.10
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2244,28 +2249,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: IcePower
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET.git
     - Name: DownloadValue
       Entry: 3
       Data: 71
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "FairyGUI code spawner for ET\u3002"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.9
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2295,28 +2300,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuicodeanalysis.git
     - Name: DownloadValue
       Entry: 3
       Data: 70
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "# YIUI\u6846\u67B6\u8BA8\u8BBA\u7FA4 833479762 ![\u4E8C\u7EF4\u7801](https://github.com/LiShengYang-yiyi/YIUI/blob/main/Readme/YIUI\u6846\u67B6\u8BA8\u8BBA\u7FA4\u4E8C\u7EF4\u7801.png)"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 1.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2346,28 +2351,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: IcePower
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET.git
     - Name: DownloadValue
       Entry: 3
       Data: 68
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: XET YooAssets
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.5
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2397,28 +2402,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuilocalization.git
     - Name: DownloadValue
       Entry: 3
-      Data: 28
+      Data: 29
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI \u591A\u8BED\u8A00 >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 3.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2448,28 +2453,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: tanghai
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/egametang/ET
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.robotcase
     - Name: DownloadValue
       Entry: 3
       Data: 11
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u6D4B\u8BD5\u7528\u4F8B\u7EC4\u4EF6"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 2.0.0
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2499,28 +2504,29 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: YIYI
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/LiShengYang-yiyi/YIUI/tree/YIUI-ET9.0
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.yiuizstring.git
     - Name: DownloadValue
       Entry: 3
       Data: 7
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "YIUI ZString >>> \u6587\u6863: https://lib9kmxvq7k.feishu.cn/wiki/R6zzw1gCzilX7VkSRFac9wftn2c
+        https://github.com/Cysharp/ZString"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.1
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2550,28 +2556,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: fs
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/yukuyoulei/ConfigAuto
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.configauto.git
     - Name: DownloadValue
       Entry: 3
       Data: 0
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u81EA\u52A8\u5BFC\u51FA\u914D\u7F6E"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.2
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5
@@ -2593,7 +2599,7 @@ MonoBehaviour:
       Data: 
     - Name: LastUpdateTime
       Entry: 3
-      Data: 1752313762
+      Data: 1752671852
     - Name: UpdateInterval
       Entry: 3
       Data: 3600

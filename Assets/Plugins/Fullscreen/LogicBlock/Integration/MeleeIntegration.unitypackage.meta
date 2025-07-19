@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a195d69c083110e42bfccc50ebee0df6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Integration/MeleeIntegration.unitypackage
+  uploadId: 768745

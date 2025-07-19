@@ -878,24 +878,24 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   scriptingDefineSymbols:
-    Android: UNITY;ENABLE_VIEW;DOTWEEN
-    EmbeddedLinux: DOTWEEN
+    Android: UNITY;ENABLE_VIEW;DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    EmbeddedLinux: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
     GameCoreScarlett: DOTWEEN
-    GameCoreXboxOne: DOTWEEN
+    GameCoreXboxOne: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
     LinuxHeadlessSimulation: DOTWEEN
-    Nintendo Switch: DOTWEEN
-    PS4: DOTWEEN
-    PS5: DOTWEEN
-    QNX: DOTWEEN
-    ReservedCFE: DOTWEEN
+    Nintendo Switch: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    PS4: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    PS5: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    QNX: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    ReservedCFE: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
     Server: UNITY;ENABLE_VIEW
-    Standalone: UNITY;ENABLE_VIEW;INITED;ODIN_INSPECTOR;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3;DOTWEEN
-    VisionOS: DOTWEEN
-    WebGL: UNITY;ENABLE_VIEW;DOTWEEN
+    Standalone: UNITY;ODIN_INSPECTOR;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3;DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;UNITY_PIPELINE_URP;INITED;ENABLE_VIEW;YIUI;TextMeshPro
+    VisionOS: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    WebGL: UNITY;ENABLE_VIEW;DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
     Windows Store Apps: DOTWEEN
-    XboxOne: DOTWEEN
-    iPhone: UNITY;ENABLE_VIEW;DOTWEEN
-    tvOS: DOTWEEN
+    XboxOne: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
+    iPhone: UNITY;ENABLE_VIEW;DOTWEEN;TextMeshPro
+    tvOS: DOTWEEN;UNITY_POST_PROCESSING_STACK_V2;TextMeshPro
   additionalCompilerArguments: {}
   platformArchitecture:
     iPhone: 1
@@ -1023,7 +1023,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 3
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0

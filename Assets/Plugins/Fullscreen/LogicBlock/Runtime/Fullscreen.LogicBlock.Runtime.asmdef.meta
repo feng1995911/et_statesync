@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91df4d19eed594247b4addc1a7fd2744
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Runtime/Fullscreen.LogicBlock.Runtime.asmdef
+  uploadId: 768745

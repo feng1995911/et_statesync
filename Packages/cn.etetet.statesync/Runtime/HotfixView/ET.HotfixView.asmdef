@@ -2,6 +2,7 @@
     "name": "ET.HotfixView",
     "rootNamespace": "ET",
     "references": [
+        "DamageNumbersPro",
         "ET.Core",
         "ET.Hotfix",
         "ET.Init",
@@ -14,6 +15,7 @@
         "ET.UI",
         "ET.YIUIFramework",
         "ET.YooAssets",
+        "UISoulResonance",
         "Unity.Mathematics",
         "Unity.TextMeshPro"
     ],

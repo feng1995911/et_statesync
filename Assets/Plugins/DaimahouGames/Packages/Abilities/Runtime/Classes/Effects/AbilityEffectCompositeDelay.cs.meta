@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 89555aafbfed4629978ce976d1f133ba
+timeCreated: 1641481930
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206589
+  packageName: 'Abilities: Game Creator 2'
+  packageVersion: 1.15.0
+  assetPath: Assets/Plugins/DaimahouGames/Packages/Abilities/Runtime/Classes/Effects/AbilityEffectCompositeDelay.cs
+  uploadId: 754312

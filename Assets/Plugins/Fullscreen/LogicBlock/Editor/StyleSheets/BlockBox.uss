@@ -1,0 +1,118 @@
+ContentBox {
+    margin-top: var(--gc-common-space-smallest);
+    margin-bottom: var(--gc-common-space-smallest);
+}
+
+.gc-content-box-last {
+    border-bottom-width: 1px;
+    border-color: var(--gc-color-border-default);
+}
+
+.gc-add-button {
+    height: var(--gc-list-head-size);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: var(--gc-color-bg-lightest);
+    border-width: var(--gc-common-border-width);
+    border-radius: 0px;
+}
+.gc-add-button:active {
+    background-color: var(--gc-color-bg-lighter);
+}
+.gc-add-button > Image {
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+    margin-top: 1px;
+}
+
+#GC-ContentBox-Head {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: var(--gc-color-list-head-default);
+    border-width: var(--gc-common-border-width);
+    border-color: var(--gc-color-border-default);
+    border-bottom-width: 0px;
+}
+
+#GC-ContentBox-Head:active {
+    background-color: var(--gc-color-list-head-press);
+}
+
+#GC-ContentBox-Head Label {
+    -unity-font-style: bold;
+    height: var(--gc-common-element-height);
+    -unity-text-align: middle-left;
+}
+
+#GC-ContentBox-Head Image {
+    width: var(--gc-common-element-height);
+    height: var(--gc-common-element-height);
+}
+
+#GC-ContentBox-Body.gc-content-box-active {
+    background-color: var(--gc-color-list-body);
+    margin: 0 var(--gc-list-body-margins);
+    padding: var(--gc-list-body-padding);
+    border-width: var(--gc-common-border-width);
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-color: var(--gc-color-border-default);
+}
+
+.gc-button-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    margin: 0;
+    margin-right: -1px;
+}
+
+.gc-content-box-button {
+    border-left-width: 0px;
+}
+
+.gc-content-box-button-first {
+    border-left-width: 1px;
+}
+
+.gc-content-box-button {
+    width: 23px;
+    height: 99%;
+    margin: 0;
+    padding: 0;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: var(--gc-color-border-element);
+    background-color: var(--gc-color-list-head-default);
+}
+
+#GC-ContentBox-Head.gc-hovered {
+    background-color: var(--gc-color-list-head-hover);
+}
+
+#GC-ContentBox-Head.gc-button-hovered {
+    background-color: var(--gc-color-list-head-default);
+}
+
+.gc-button-hovered {
+    background-color: var(--gc-color-list-head-hover);
+}
+.gc-button:active {
+    background-color: var(--gc-color-list-head-press);
+}
+
+#gc-content-box-drop-above {
+    height: 2px;
+    background-color: #0078D7;
+}
+
+#gc-content-box-drop-below {
+    height: 2px;
+    background-color: #0078D7;
+    margin: -1px;
+}

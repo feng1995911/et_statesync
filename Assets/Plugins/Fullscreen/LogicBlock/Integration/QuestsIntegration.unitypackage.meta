@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 069ed731efe497e499a44f432d89318f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Integration/QuestsIntegration.unitypackage
+  uploadId: 768745

@@ -25,14 +25,14 @@ MonoBehaviour:
     Version: 2.0.0
   - Name: cn.etetet.yiuireddot
     Version: 2.0.0
+  - Name: cn.etetet.yiuilubangen
+    Version: 
   - Name: cn.etetet.yiuiloopscrollrectasync
     Version: 2.0.0
   - Name: cn.etetet.yiuiinvoke
     Version: 4.0.0
   - Name: cn.etetet.yiuigm
     Version: 2.0.0
-  - Name: cn.etetet.yiuiframework
-    Version: 2.0.3
   - Name: cn.etetet.yiuieffect
     Version: 2.0.0
   - Name: cn.etetet.yiui3ddisplay
@@ -49,6 +49,8 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.sourcegenerator
     Version: 3.0.1
+  - Name: cn.etetet.soulresonance
+    Version: 
   - Name: cn.etetet.router
     Version: 3.0.0
   - Name: cn.etetet.referencecollector
@@ -74,8 +76,6 @@ MonoBehaviour:
   - Name: cn.etetet.hybridclr
     Version: 7.8.1
   - Name: cn.etetet.http
-    Version: 3.0.0
-  - Name: cn.etetet.excel
     Version: 3.0.0
   - Name: cn.etetet.demores
     Version: 3.0.0
@@ -149,24 +149,44 @@ MonoBehaviour:
     Version: 1.0.0
   - Name: com.unity.ugui
     Version: 3.0.0-exp.4
+  - Name: com.unity.toonshader
+    Version: 0.11.1-preview
   - Name: com.unity.timeline
     Version: 1.8.8
+  - Name: com.unity.shadergraph
+    Version: 17.0.3
   - Name: com.unity.render-pipelines.universal
     Version: 17.0.3
+  - Name: com.unity.postprocessing
+    Version: 3.5.0
   - Name: com.unity.multiplayer.center
     Version: 1.0.0
+  - Name: com.unity.mathematics
+    Version: 1.3.2
+  - Name: com.unity.inputsystem
+    Version: 1.14.1
   - Name: com.unity.ide.visualstudio
     Version: 2.0.23
   - Name: com.unity.ide.rider
     Version: 3.0.36
+  - Name: com.unity.collections
+    Version: 2.6.0-pre.3
   - Name: com.unity.ai.navigation
     Version: 2.0.8
+  - Name: cn.etetet.yiuistatesync
+    Version: 2.0.0
+  - Name: cn.etetet.yiuiluban
+    Version: 3.0.1
+  - Name: cn.etetet.yiuilocalizationpro
+    Version: 2.0.0
+  - Name: cn.etetet.yiuiframework
+    Version: 2.0.3
   - Name: cn.etetet.statesync
     Version: 3.0.11
   - Name: cn.etetet.packagemanager
     Version: 1.0.5
-  - Name: cn.etetet.yiuistatesync
-    Version: 2.0.0
+  - Name: cn.etetet.excel
+    Version: 3.0.0
   BanPackageInfo: []
-  LastUpdateTime: 1752328643
+  LastUpdateTime: 1752671851
   UpdateInterval: 3600

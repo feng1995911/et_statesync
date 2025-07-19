@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2906cab2a678c974bb5b6c7293a24649
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319238
+  packageName: LogicBlock | Game Creator 2
+  packageVersion: 1.0.3
+  assetPath: Assets/Plugins/Fullscreen/LogicBlock/Editor/Scripts/BlockReferenceManagerEditorCleanup.cs
+  uploadId: 768745

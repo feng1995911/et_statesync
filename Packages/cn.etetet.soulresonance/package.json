@@ -1,0 +1,16 @@
+﻿{
+  "name": "cn.etetet.soulresonance",
+  "displayName": "ET.SoulResonance",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "玩法UI模块",
+  "author": {
+    "name": "zqf"
+  },
+  "repository": {},
+  "relatedPackages": {},
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
+  }
+}
