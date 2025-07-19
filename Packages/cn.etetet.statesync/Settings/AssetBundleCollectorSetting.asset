@@ -76,6 +76,14 @@ MonoBehaviour:
         FilterRuleName: CollectScene
         AssetTags: 
         UserData: 
+      - CollectPath: Packages/cn.etetet.soulresonance/Scenes
+        CollectorGUID: 94275e74489505343b74cf42c7b89c81
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectScene
+        AssetTags: 
+        UserData: 
     - GroupName: UI
       GroupDesc: 
       AssetTags: 
@@ -89,6 +97,14 @@ MonoBehaviour:
         FilterRuleName: CollectPrefab
         AssetTags: 
         UserData: 
+      - CollectPath: Packages/cn.etetet.soulresonance/Assets/GameRes/YIUI
+        CollectorGUID: d14888227f0d0d141b12be0062704c3d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectPrefab
+        AssetTags: 
+        UserData: 
     - GroupName: Unit
       GroupDesc: 
       AssetTags: 
@@ -96,6 +112,14 @@ MonoBehaviour:
       Collectors:
       - CollectPath: Packages/cn.etetet.demores/Bundles/Unit
         CollectorGUID: 2f805b95f651fcc47a8ad0cc32706c38
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectPrefab
+        AssetTags: 
+        UserData: 
+      - CollectPath: Packages/cn.etetet.soulresonance/Assets/Unit
+        CollectorGUID: 32a596648cd90004aa22ac8a0785a58a
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackSeparately
@@ -186,19 +210,6 @@ MonoBehaviour:
       Collectors:
       - CollectPath: Packages/cn.etetet.yiuilocalizationpro/Assets/GameRes/I2Localization
         CollectorGUID: c4920432a4d094241a7ac5e7736f1313
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackDirectory
-        FilterRuleName: CollectAll
-        AssetTags: 
-        UserData: 
-    - GroupName: SRUI
-      GroupDesc: 
-      AssetTags: 
-      ActiveRuleName: EnableGroup
-      Collectors:
-      - CollectPath: Packages/cn.etetet.soulresonance/Assets
-        CollectorGUID: c762f20925793b84e85b6a43e1617d51
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
