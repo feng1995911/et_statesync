@@ -1,0 +1,2770 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.6",
+        "UnityVersion": "6000.0.25f1",
+        "BuildDate": "2025/7/20 16:57:10",
+        "BuildSeconds": 117,
+        "BuildTarget": 19,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2025-07-20-1014",
+        "BuildPackageNote": "2025/7/20 16:55:12",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": false,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "defaultpackage_unityshaders.bundle",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 134,
+        "MainAssetTotalCount": 70,
+        "AllBundleTotalCount": 62,
+        "AllBundleTotalSize": 11053359,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "YIUIConstAsset",
+            "AssetPath": "Assets/GameRes/YIUI/YIUIConstAsset.txt",
+            "AssetGUID": "ba2d2506aab94ca42ade38752b42803f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_yiui.bundle",
+            "MainBundleSize": 2382,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Unit",
+            "AssetPath": "Packages/cn.etetet.demores/Bundles/Unit/Unit.prefab",
+            "AssetGUID": "cfaf4529ce2243c4c85126e9d008897b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+            "MainBundleSize": 2555,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Materials/skeleton_D.mat",
+                    "AssetGUID": "b1494958bf9856a479bec1767c02878e"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Idle.FBX",
+                    "AssetGUID": "a5ea117a2b123564a83a2dbd1c9ea4cf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Run.FBX",
+                    "AssetGUID": "f57ee821486cd7b488adf1063a8dd207"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Skeleton.prefab",
+                    "AssetGUID": "9e27b0bdab1ad7242a009899d15c0e67"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/SkeletonController.controller",
+                    "AssetGUID": "595f7cae6f82a6146b20ca287fe7c859"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif",
+                    "AssetGUID": "943f3c476130c4f4f8ae55ef3ccd38ba"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                    "AssetGUID": "8d2bb70cbf9db8d4da26e15b26e74248"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "Map1",
+            "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1.unity",
+            "AssetGUID": "a5294483f20f40d449699101bb428cda",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+            "MainBundleSize": 1409472,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_dir.png",
+                    "AssetGUID": "eeeb8730251ee1b469b9b070c7efb1cf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_light.exr",
+                    "AssetGUID": "ab3027117b6819848bae7b1746588d06"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1/ReflectionProbe-0.exr",
+                    "AssetGUID": "02bc6af578f699249a101b704d189b5a"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1Settings.lighting",
+                    "AssetGUID": "4836a445dcf1a044d90ff116828a0704"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Mat/Urp.mat",
+                    "AssetGUID": "6d5adfb995cb79c438d8b1e6b5e5de91"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                    "AssetGUID": "8d2bb70cbf9db8d4da26e15b26e74248"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "Map2",
+            "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2.unity",
+            "AssetGUID": "064123f1e5067b249a9fd8967ddbde09",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle",
+            "MainBundleSize": 23273,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_dir.png",
+                    "AssetGUID": "62a71c4ca03e7434ca6ff4bba65ffb45"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_light.exr",
+                    "AssetGUID": "0d7da8dd669b0d8488a81fcb41451b21"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2/ReflectionProbe-0.exr",
+                    "AssetGUID": "1f1694b2c0d992047b551ad028dd5347"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2Settings.lighting",
+                    "AssetGUID": "c78b5af2c87902e4aba73014819bd1a7"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Mat/Urp.mat",
+                    "AssetGUID": "6d5adfb995cb79c438d8b1e6b5e5de91"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                    "AssetGUID": "8d2bb70cbf9db8d4da26e15b26e74248"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "CommandLine.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/CommandLine.dll.bytes",
+            "AssetGUID": "c61834cb3a1dee14883eeb65229ea1f7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.Core.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Core.dll.bytes",
+            "AssetGUID": "cb799607db8fe7b4d8921a6f225a5f18",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.Loader.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Loader.dll.bytes",
+            "AssetGUID": "ad980cf331bf7454c89187cba1036674",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.MemoryPack.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.MemoryPack.dll.bytes",
+            "AssetGUID": "78fcf54e2121139479f4d7635e122f9c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.YIUIFramework.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YIUIFramework.dll.bytes",
+            "AssetGUID": "96d045eaec46f7a4d806089feac8a6db",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.YooAssets.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YooAssets.dll.bytes",
+            "AssetGUID": "8b16cc39aff762f46ab617868c130409",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "MongoDB.Bson.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/MongoDB.Bson.dll.bytes",
+            "AssetGUID": "3e2d86a7f3f39b14cad82e0d6097c42e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/mscorlib.dll.bytes",
+            "AssetGUID": "5dd1a25305f743540a82b99d2bd2558f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Sirenix.Serialization.AOTGenerated.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/Sirenix.Serialization.AOTGenerated.dll.bytes",
+            "AssetGUID": "dc07e028cb4c3984786e5cd0d00046b4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Core.dll.bytes",
+            "AssetGUID": "a0aa8e8618946ec4389fc55dcce0962e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.dll.bytes",
+            "AssetGUID": "5d9d0663f855a2d4cb37a736d8d3b2e0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Runtime.CompilerServices.Unsafe.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes",
+            "AssetGUID": "40f0026b06f53684987505344aac82fd",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 4136451,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.Hotfix.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.dll.bytes",
+            "AssetGUID": "db928d38e6eeb8a4390349871af1ed20",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.Hotfix.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.pdb.bytes",
+            "AssetGUID": "9bbc2a978e07cbf41b1af59c5ed6ebec",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.HotfixView.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.dll.bytes",
+            "AssetGUID": "5c288e180607a034fa01dbfe55cd3d1f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.HotfixView.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.pdb.bytes",
+            "AssetGUID": "7ea8963886f97ae4680fc155c85dc3cf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.Model.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Model.dll.bytes",
+            "AssetGUID": "5cbcf920dd650754d8ff38b72648034a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.Model.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Model.pdb.bytes",
+            "AssetGUID": "2fb63551cea57074a9feea432ebe243a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.ModelView.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.dll.bytes",
+            "AssetGUID": "21867603c319ec34680c30bbbef7881d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ET.ModelView.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.pdb.bytes",
+            "AssetGUID": "16c15f59aed1fd74bbbe929d52b87315",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 667849,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "LoginPanel",
+            "AssetPath": "Packages/cn.etetet.soulresonance/Assets/GameRes/YIUI/Login/Prefabs/LoginPanel.prefab",
+            "AssetGUID": "6d8daf10da24ca44c8690e5a59459164",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+            "MainBundleSize": 23246,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Base/Button.controller",
+                    "AssetGUID": "8ed70d97998274cf79cbba46e8aab8fe"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Button - Zoom In.overrideController",
+                    "AssetGUID": "020338e8b6cbd48e9b54983e5e46df0e"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Disabled.anim",
+                    "AssetGUID": "2819e20fc0eba454c9fa711b7149b13b"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Highlighted.anim",
+                    "AssetGUID": "b7aa5d5a1b4514dbfa7185cb1e6ab8a5"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Normal.anim",
+                    "AssetGUID": "594a70557acef468ba296f01cc0dbc15"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Pressed.anim",
+                    "AssetGUID": "a55f9de0bfad74b68890947c89bb257e"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Selected.anim",
+                    "AssetGUID": "580fb053aae204e4ba0e4c33916d8042"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Popups/Fade/Close.anim",
+                    "AssetGUID": "0973e2c86cfe04509baef129e51272c2"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Popups/Fade/Open.anim",
+                    "AssetGUID": "0f3a6a3b6b6d144e98451ddc01bb7859"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Popups/Fade/Popup Fade.controller",
+                    "AssetGUID": "4f7aa3cf36ab14569b9449cc289f90aa"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Button RollOver Soft.wav",
+                    "AssetGUID": "08b21a5c0723e41c293613e9d37f9902"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Button.wav",
+                    "AssetGUID": "21d2dd36629bf406daad2064370e68fe"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Close (Rollover).wav",
+                    "AssetGUID": "15abc1bdbe56f480baf05b728882ca96"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Close.wav",
+                    "AssetGUID": "c201f1dfd9d8345c7913a8662735c920"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Demo/Popups/Settings/Icons UI/TickSharpIcon.png",
+                    "AssetGUID": "e6a0a4dfbbba24a9ab4bc6f64199901d"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Basic/Checkmark - Curved.png",
+                    "AssetGUID": "af55966adb364495e8e1e69e5b2c28ba"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Basic/Lock.png",
+                    "AssetGUID": "454541f6ecedb4181a4c368a41e63ee3"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Basic/Mail.png",
+                    "AssetGUID": "79543e7393bfe4834bf2ccb97df3dd52"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Close Icons/Close Icon - Semi Round.png",
+                    "AssetGUID": "65133b11016ae4f619c821df8e547c32"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/User/User.png",
+                    "AssetGUID": "b1bdeaa6a1f324f46b785c129622b23d"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Cutout/Cutout - 200ppu.png",
+                    "AssetGUID": "cc9151669908e4e85837bb4b4e2a3e06"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Cutout/Cutout - Stroke 2px - 200ppu.png",
+                    "AssetGUID": "4e1443b5fedb04b53b889dc402599498"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Diamond/Diamond - Stroke 1px.png",
+                    "AssetGUID": "637aad9b0a8b745c4b03c35528cedbc7"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Diamond/Diamond.png",
+                    "AssetGUID": "dca6f3667624f48c3854ed640667233d"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Pointed/Pointed - 200ppu.png",
+                    "AssetGUID": "10873a2f4dc3a4ef3a37b4f048d525a3"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Pointed/Pointed - Stroke 2px - 200ppu.png",
+                    "AssetGUID": "0de9ae1c453904b54a52569911481cdc"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Square/Square.png",
+                    "AssetGUID": "6e4f4c0390c77404fbc0e6716111c623"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Fonts/kurale-regular SDF.asset",
+                    "AssetGUID": "a07fd053aa5734a71a8148ecac13a5d9"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Fonts/kurale-regular.otf",
+                    "AssetGUID": "77201406d71494feabc8d9170093c3d7"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Button/Pointed/Filled/Button - Filled - Violet.prefab",
+                    "AssetGUID": "db12cedef226148a481ebe663f95a095"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Button/Pointed/Filled/Button - Filled.prefab",
+                    "AssetGUID": "7565aac6e115d4260a9f8227da618df7"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Checkbox/Diamond/Filled With Outline/Checkbox - Filled - Gray.prefab",
+                    "AssetGUID": "3f116025f4f35412380a6f6a64d02a28"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Checkbox/Diamond/Filled With Outline/Checkbox - Filled.prefab",
+                    "AssetGUID": "13d051131ca0c4b3e82d8d359eb93145"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Input Field/List/Input List Group (With Icons).prefab",
+                    "AssetGUID": "1ee3531a60e6449aa9658bd4e0b6d0ba"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Popup/Base/Popup Base - Cutout.prefab",
+                    "AssetGUID": "2fba4c6fdded34ff8a360883315114da"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Popup/Base/Popup Base.prefab",
+                    "AssetGUID": "0b1757db9211c4995ac5df2000a2f2c6"
+                },
+                {
+                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                    "AssetGUID": "68e6db2ebdc24f95958faec2be5558d6"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_base.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_zoom_in_zoom_in.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_popups_fade.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sounds.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_demo_popups_settings_icons_ui.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_basic.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_close_icons.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_user.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_cutout.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_diamond.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_pointed.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_square.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_checkbox_diamond_filled_with_outline.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "UIHelp",
+            "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UIHelp.prefab",
+            "AssetGUID": "c54e8d9624286b24fa23519e5df2ed0a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uihelp.bundle",
+            "MainBundleSize": 4758,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UILobby",
+            "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UILobby.prefab",
+            "AssetGUID": "d8d87e53d93e234448658c9a801a9967",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle",
+            "MainBundleSize": 6699,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UILogin.prefab",
+            "AssetGUID": "9f6d9adc6f537764fa0fea29671e77bf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle",
+            "MainBundleSize": 8774,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "DisplayDemoModel",
+            "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/DisplayDemoModel.prefab",
+            "AssetGUID": "92c7563af498ef941b0e28753cb20c0d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+            "MainBundleSize": 9929,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif",
+                    "AssetGUID": "943f3c476130c4f4f8ae55ef3ccd38ba"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Materials/skeleton_D.mat",
+                    "AssetGUID": "0467fa2a8d6eb9f4fb046fe5736b87dc"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Skeleton@Idle.FBX",
+                    "AssetGUID": "25826fda47159ec40b7d2fd0c57f1f72"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Materials/skeleton_D.mat",
+                    "AssetGUID": "5845e442836208c4686925bfa42b9d5f"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Skeleton@Skin.FBX",
+                    "AssetGUID": "d6d78adf80b38ce47a2e84e51df76d86"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/SkeletonController.controller",
+                    "AssetGUID": "4f60a0c39bebaf140b6b28c8bc0a1ac1"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "AssetGUID": "933532a4fcc9baf4fa0491de14d08ed7"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                    "AssetGUID": "8d2bb70cbf9db8d4da26e15b26e74248"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "ModelDisplayDemoView",
+            "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Prefabs/ModelDisplayDemoView.prefab",
+            "AssetGUID": "a1f84e1fe81ba60439aa58a273cf49e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_prefabs.bundle",
+            "MainBundleSize": 11553,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle"
+            ]
+        },
+        {
+            "Address": "Audio_Click",
+            "AssetPath": "Packages/cn.etetet.yiuiaudio/Assets/Audio/Audio_Click.wav",
+            "AssetGUID": "cc7613483aacb0b488be10330b5b44bf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiaudio_assets_audio.bundle",
+            "MainBundleSize": 79802,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Audio_Login_BGM",
+            "AssetPath": "Packages/cn.etetet.yiuiaudio/Assets/Audio/Audio_Login_BGM.wav",
+            "AssetGUID": "57fe2f2148b0a0e4c996c2106da5108a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiaudio_assets_audio.bundle",
+            "MainBundleSize": 79802,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Damage_3D_SawNeon",
+            "AssetPath": "Packages/cn.etetet.yiuidamagetips/Assets/GameRes/Damage/3D/Damage_3D_SawNeon.prefab",
+            "AssetGUID": "5d67b93118c75c64ab7c6816156e422f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_3d.bundle",
+            "MainBundleSize": 11892,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                    "AssetGUID": "dd89cf5b9246416f84610a006f916af7"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Fonts/DNPSaw.ttf",
+                    "AssetGUID": "62d3d1fbd207dff4280e78f60fd6f2aa"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Materials/Saw/Saw-Neon.asset",
+                    "AssetGUID": "9a9da3c6fe6d8674b979acf47b14f139"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_fonts.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_saw.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "Damage_UI_PixelHeal",
+            "AssetPath": "Packages/cn.etetet.yiuidamagetips/Assets/GameRes/Damage/UI/Damage_UI_PixelHeal.prefab",
+            "AssetGUID": "8f120127989979441862b73662a57263",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_ui.bundle",
+            "MainBundleSize": 11051,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                    "AssetGUID": "dd89cf5b9246416f84610a006f916af7"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Fonts/DNPPixel.ttf",
+                    "AssetGUID": "a6a9e8503517d794a964cf99c9d9a3e8"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Materials/Pixel/Pixel-Glow.asset",
+                    "AssetGUID": "9c531f7132a5fa44a87992df50ab3582"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_fonts.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_pixel.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "DamageTipsPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidamagetips/Assets/GameRes/YIUI/DamageTips/Prefabs/DamageTipsPanel.prefab",
+            "AssetGUID": "41abd5a065ff046408a2e070f3f655a5",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_yiui_damagetips_prefabs.bundle",
+            "MainBundleSize": 4340,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "YIUIClose_Black",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_Black.prefab",
+            "AssetGUID": "d3deb86bcc12f1e44ab08b7e54160f16",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "MainBundleSize": 8973,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "YIUIClose_Gray",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_Gray.prefab",
+            "AssetGUID": "e1d5b91b01e4b8e4f8c0443edcaed44a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "MainBundleSize": 8973,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "YIUIClose_White",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+            "AssetGUID": "a9f9a10f1aed79141bb2a7b55f3e7d91",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "MainBundleSize": 8973,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "YIUICloseCommon",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+            "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+            "MainBundleSize": 5420,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GMCommandItem",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMCommandItem.prefab",
+            "AssetGUID": "f80c3d6e627b9ee49936e23bb0194e28",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30330,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "GMPanel",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMPanel.prefab",
+            "AssetGUID": "7c8244bfcb301b24eb9cd99f4446d243",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30330,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "GMParamItem",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMParamItem.prefab",
+            "AssetGUID": "c799eab28ccee7d49872a6d5356c21e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30330,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "GMTypeItem",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMTypeItem.prefab",
+            "AssetGUID": "f94183551c09bc148982271dd831d3c8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30330,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "GMView",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMView.prefab",
+            "AssetGUID": "032a5520c2b71c349a684af0e1df8a9a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30330,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                    "AssetGUID": "a9f9a10f1aed79141bb2a7b55f3e7d91"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "I2_Chinese",
+            "AssetPath": "Packages/cn.etetet.yiuilocalizationpro/Assets/GameRes/I2Localization/I2_Chinese.csv",
+            "AssetGUID": "d78f9d6faab66f54c8815920566eb56d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilocalizationpro_assets_gameres_i2localization.bundle",
+            "MainBundleSize": 1445,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "I2_English",
+            "AssetPath": "Packages/cn.etetet.yiuilocalizationpro/Assets/GameRes/I2Localization/I2_English.csv",
+            "AssetGUID": "1dfffc1b8fb22b84da4f9fd264a6f775",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilocalizationpro_assets_gameres_i2localization.bundle",
+            "MainBundleSize": 1445,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "LoopScrollHorizontalView",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollHorizontalView.prefab",
+            "AssetGUID": "fa54e251dfa45fa4b8bfc53c7c33edaf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16162,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "LoopScrollRectDemoItem",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoItem.prefab",
+            "AssetGUID": "d24f1f22fab23f241b81b4889bffb745",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16162,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "LoopScrollRectDemoPanel",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoPanel.prefab",
+            "AssetGUID": "06667c3f381b3a94b9cea17b5daa40f8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16162,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                    "AssetGUID": "a9f9a10f1aed79141bb2a7b55f3e7d91"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "LoopScrollVerticalGroupView",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalGroupView.prefab",
+            "AssetGUID": "af394dafe27d6294fb3fd63a9f917e25",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16162,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "LoopScrollVerticalView",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalView.prefab",
+            "AssetGUID": "a176502f7944cd244b8d1d3b3e44adc7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16162,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "AIConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/AIConfigCategory.bytes",
+            "AssetGUID": "606eec949a47877439a19193a9781857",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AudioConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/AudioConfigCategory.bytes",
+            "AssetGUID": "36f9f9c3d0725124abff0a5979a0867d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ConditionConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/ConditionConfigCategory.bytes",
+            "AssetGUID": "4fe5e4b51ddf111418a382366f6dbbde",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ConditionGroupConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/ConditionGroupConfigCategory.bytes",
+            "AssetGUID": "6cd2d8ce71d303c4999c54cd190d1d3e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GameObjectPoolSettingsConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/GameObjectPoolSettingsConfigCategory.bytes",
+            "AssetGUID": "1610e4f2c503fa940b4eed74237b5917",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "LocalizationCheckConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/LocalizationCheckConfigCategory.bytes",
+            "AssetGUID": "bfdd4c56976e1604793a5116d21761bf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnitConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/UnitConfigCategory.bytes",
+            "AssetGUID": "e071fe3714964834fba3126b51fd47f5",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "MainBundleSize": 1909,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "RedDotConfigAsset",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotConfigAsset.asset",
+            "AssetGUID": "46e581e4e1819c944b13c8aad861df44",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_reddot.bundle",
+            "MainBundleSize": 3159,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "RedDotKeyAsset",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotKeyAsset.asset",
+            "AssetGUID": "14f3201acadce99448ce10bd2ffa3528",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_reddot.bundle",
+            "MainBundleSize": 3159,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "RedDotDataItem",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotDataItem.prefab",
+            "AssetGUID": "1629fdf43f57fec4298fbce74a07a3e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "MainBundleSize": 42043,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "RedDotPanel",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotPanel.prefab",
+            "AssetGUID": "6363f4da10e95ca42bcbdc30c14944da",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "MainBundleSize": 42043,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                    "AssetGUID": "a9f9a10f1aed79141bb2a7b55f3e7d91"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "RedDotStackItem",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotStackItem.prefab",
+            "AssetGUID": "baccddcae3e62974fadaf3dc456d2981",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "MainBundleSize": 42043,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "YIUIRoot",
+            "AssetPath": "Packages/cn.etetet.yiuistatesync/Assets/GameRes/YIUI/Common/Prefabs/YIUIRoot.prefab",
+            "AssetGUID": "4200f826ed726d4478d4d19000af33c4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_common_prefabs.bundle",
+            "MainBundleSize": 6417,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "LobbyPanel",
+            "AssetPath": "Packages/cn.etetet.yiuistatesync/Assets/GameRes/YIUI/Lobby/Prefabs/LobbyPanel.prefab",
+            "AssetGUID": "04c477bd518e168468ad6bd9c09e6320",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_lobby_prefabs.bundle",
+            "MainBundleSize": 7222,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "MainPanel",
+            "AssetPath": "Packages/cn.etetet.yiuistatesync/Assets/GameRes/YIUI/Main/Prefabs/MainPanel.prefab",
+            "AssetGUID": "dc6c7211951b91947977360b3f95e3e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_main_prefabs.bundle",
+            "MainBundleSize": 5569,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TipsTextAnimation_01",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Animation/TipsTextAnimation_01.anim",
+            "AssetGUID": "9c0926859daaf8b468ac2c76129b913f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+            "MainBundleSize": 6185,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TipsMessageView",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsMessageView.prefab",
+            "AssetGUID": "c30d93aef19d0334889186e6f9dcff37",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "MainBundleSize": 12329,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "TipsPanel",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsPanel.prefab",
+            "AssetGUID": "9047ccdd6e81d494998b0a508d19e5b8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "MainBundleSize": 12329,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "TipsTextView",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsTextView.prefab",
+            "AssetGUID": "a5dda1fd1d69d8f489c1b012f397f87f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "MainBundleSize": 12329,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Animation/TipsTextAnimation_01.anim",
+                    "AssetGUID": "9c0926859daaf8b468ac2c76129b913f"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_gameres_yiui.bundle",
+            "FileName": "f3901a615d4487141a9fa339e9d54ac4.bundle",
+            "FileHash": "f3901a615d4487141a9fa339e9d54ac4",
+            "FileCRC": "9cbd9688",
+            "FileSize": 2382,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/GameRes/YIUI/YIUIConstAsset.txt",
+                    "AssetGUID": "ba2d2506aab94ca42ade38752b42803f"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+            "FileName": "c64daf514f6409ba5376ee4aef414a56.bundle",
+            "FileHash": "c64daf514f6409ba5376ee4aef414a56",
+            "FileCRC": "89ebc21e",
+            "FileSize": 2555,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Bundles/Unit/Unit.prefab",
+                    "AssetGUID": "cfaf4529ce2243c4c85126e9d008897b"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+            "FileName": "734adba89a10092abf23ec1c13cc005f.bundle",
+            "FileHash": "734adba89a10092abf23ec1c13cc005f",
+            "FileCRC": "e5cbd9c5",
+            "FileSize": 1409472,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1.unity",
+                    "AssetGUID": "a5294483f20f40d449699101bb428cda"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle",
+            "FileName": "c5e29150d8bb2cd5f6e14f962658cc92.bundle",
+            "FileHash": "c5e29150d8bb2cd5f6e14f962658cc92",
+            "FileCRC": "2e2fc22c",
+            "FileSize": 23273,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2.unity",
+                    "AssetGUID": "064123f1e5067b249a9fd8967ddbde09"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "FileName": "53c7207069dedc7c1a3da6e2ee07337d.bundle",
+            "FileHash": "53c7207069dedc7c1a3da6e2ee07337d",
+            "FileCRC": "a42c435f",
+            "FileSize": 4136451,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/CommandLine.dll.bytes",
+                    "AssetGUID": "c61834cb3a1dee14883eeb65229ea1f7"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Core.dll.bytes",
+                    "AssetGUID": "cb799607db8fe7b4d8921a6f225a5f18"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Loader.dll.bytes",
+                    "AssetGUID": "ad980cf331bf7454c89187cba1036674"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.MemoryPack.dll.bytes",
+                    "AssetGUID": "78fcf54e2121139479f4d7635e122f9c"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YIUIFramework.dll.bytes",
+                    "AssetGUID": "96d045eaec46f7a4d806089feac8a6db"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YooAssets.dll.bytes",
+                    "AssetGUID": "8b16cc39aff762f46ab617868c130409"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/MongoDB.Bson.dll.bytes",
+                    "AssetGUID": "3e2d86a7f3f39b14cad82e0d6097c42e"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/mscorlib.dll.bytes",
+                    "AssetGUID": "5dd1a25305f743540a82b99d2bd2558f"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/Sirenix.Serialization.AOTGenerated.dll.bytes",
+                    "AssetGUID": "dc07e028cb4c3984786e5cd0d00046b4"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Core.dll.bytes",
+                    "AssetGUID": "a0aa8e8618946ec4389fc55dcce0962e"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.dll.bytes",
+                    "AssetGUID": "5d9d0663f855a2d4cb37a736d8d3b2e0"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes",
+                    "AssetGUID": "40f0026b06f53684987505344aac82fd"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "FileName": "c43990a0dd9fd5912f68e85d6500e80b.bundle",
+            "FileHash": "c43990a0dd9fd5912f68e85d6500e80b",
+            "FileCRC": "e7bccc37",
+            "FileSize": 667849,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.dll.bytes",
+                    "AssetGUID": "db928d38e6eeb8a4390349871af1ed20"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.pdb.bytes",
+                    "AssetGUID": "9bbc2a978e07cbf41b1af59c5ed6ebec"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.dll.bytes",
+                    "AssetGUID": "5c288e180607a034fa01dbfe55cd3d1f"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.pdb.bytes",
+                    "AssetGUID": "7ea8963886f97ae4680fc155c85dc3cf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Model.dll.bytes",
+                    "AssetGUID": "5cbcf920dd650754d8ff38b72648034a"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Model.pdb.bytes",
+                    "AssetGUID": "2fb63551cea57074a9feea432ebe243a"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.dll.bytes",
+                    "AssetGUID": "21867603c319ec34680c30bbbef7881d"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.pdb.bytes",
+                    "AssetGUID": "16c15f59aed1fd74bbbe929d52b87315"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+            "FileName": "dfb6a261fd83a27b818fa8d89f84c4d4.bundle",
+            "FileHash": "dfb6a261fd83a27b818fa8d89f84c4d4",
+            "FileCRC": "d3fbb777",
+            "FileSize": 23246,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_base.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_zoom_in_zoom_in.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_popups_fade.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sounds.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_demo_popups_settings_icons_ui.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_basic.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_close_icons.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_user.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_cutout.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_diamond.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_pointed.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_square.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.soulresonance/Assets/GameRes/YIUI/Login/Prefabs/LoginPanel.prefab",
+                    "AssetGUID": "6d8daf10da24ca44c8690e5a59459164"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uihelp.bundle",
+            "FileName": "54ef6806281c52be0570fee027258c88.bundle",
+            "FileHash": "54ef6806281c52be0570fee027258c88",
+            "FileCRC": "fb6041f7",
+            "FileSize": 4758,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UIHelp.prefab",
+                    "AssetGUID": "c54e8d9624286b24fa23519e5df2ed0a"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle",
+            "FileName": "16d6b93e4de32acdb4cbfe840006997e.bundle",
+            "FileHash": "16d6b93e4de32acdb4cbfe840006997e",
+            "FileCRC": "5844fdf8",
+            "FileSize": 6699,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UILobby.prefab",
+                    "AssetGUID": "d8d87e53d93e234448658c9a801a9967"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle",
+            "FileName": "47a84371714274fde74c096dbedfdd0e.bundle",
+            "FileHash": "47a84371714274fde74c096dbedfdd0e",
+            "FileCRC": "e97cf5cb",
+            "FileSize": 8774,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UILogin.prefab",
+                    "AssetGUID": "9f6d9adc6f537764fa0fea29671e77bf"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+            "FileName": "eb7644f64bff1fafa5a69cc8900279ed.bundle",
+            "FileHash": "eb7644f64bff1fafa5a69cc8900279ed",
+            "FileCRC": "b9e379e0",
+            "FileSize": 9929,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/DisplayDemoModel.prefab",
+                    "AssetGUID": "92c7563af498ef941b0e28753cb20c0d"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_prefabs.bundle",
+            "FileName": "9f1ac32653383280c459216f89985048.bundle",
+            "FileHash": "9f1ac32653383280c459216f89985048",
+            "FileCRC": "628dbafd",
+            "FileSize": 11553,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Prefabs/ModelDisplayDemoView.prefab",
+                    "AssetGUID": "a1f84e1fe81ba60439aa58a273cf49e4"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiaudio_assets_audio.bundle",
+            "FileName": "39f7e7a6fb33cdbc0bb589e84af20a3c.bundle",
+            "FileHash": "39f7e7a6fb33cdbc0bb589e84af20a3c",
+            "FileCRC": "47b20ec8",
+            "FileSize": 79802,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiaudio/Assets/Audio/Audio_Click.wav",
+                    "AssetGUID": "cc7613483aacb0b488be10330b5b44bf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiaudio/Assets/Audio/Audio_Login_BGM.wav",
+                    "AssetGUID": "57fe2f2148b0a0e4c996c2106da5108a"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_3d.bundle",
+            "FileName": "4296cc280a7cb82e95e3a7f282444a03.bundle",
+            "FileHash": "4296cc280a7cb82e95e3a7f282444a03",
+            "FileCRC": "bb8de7d4",
+            "FileSize": 11892,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_saw.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Assets/GameRes/Damage/3D/Damage_3D_SawNeon.prefab",
+                    "AssetGUID": "5d67b93118c75c64ab7c6816156e422f"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_ui.bundle",
+            "FileName": "26d235ad00922bb223a6d06d344b22ca.bundle",
+            "FileHash": "26d235ad00922bb223a6d06d344b22ca",
+            "FileCRC": "019c8535",
+            "FileSize": 11051,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_pixel.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Assets/GameRes/Damage/UI/Damage_UI_PixelHeal.prefab",
+                    "AssetGUID": "8f120127989979441862b73662a57263"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_yiui_damagetips_prefabs.bundle",
+            "FileName": "95443f07e4a66f6a90ea16a20bf38f81.bundle",
+            "FileHash": "95443f07e4a66f6a90ea16a20bf38f81",
+            "FileCRC": "88c19fcc",
+            "FileSize": 4340,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Assets/GameRes/YIUI/DamageTips/Prefabs/DamageTipsPanel.prefab",
+                    "AssetGUID": "41abd5a065ff046408a2e070f3f655a5"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "FileName": "758da2ffb8a65cf7dbc780b794d7ad74.bundle",
+            "FileHash": "758da2ffb8a65cf7dbc780b794d7ad74",
+            "FileCRC": "e26950a5",
+            "FileSize": 8973,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_Black.prefab",
+                    "AssetGUID": "d3deb86bcc12f1e44ab08b7e54160f16"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_Gray.prefab",
+                    "AssetGUID": "e1d5b91b01e4b8e4f8c0443edcaed44a"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                    "AssetGUID": "a9f9a10f1aed79141bb2a7b55f3e7d91"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+            "FileName": "110e1dde35662b7130ad604c1bb3ec44.bundle",
+            "FileHash": "110e1dde35662b7130ad604c1bb3ec44",
+            "FileCRC": "7765f7ed",
+            "FileSize": 5420,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                    "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "FileName": "7bb946cba1899011a8f59d9467492e80.bundle",
+            "FileHash": "7bb946cba1899011a8f59d9467492e80",
+            "FileCRC": "a3ee3b8a",
+            "FileSize": 30330,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMCommandItem.prefab",
+                    "AssetGUID": "f80c3d6e627b9ee49936e23bb0194e28"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMPanel.prefab",
+                    "AssetGUID": "7c8244bfcb301b24eb9cd99f4446d243"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMParamItem.prefab",
+                    "AssetGUID": "c799eab28ccee7d49872a6d5356c21e4"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMTypeItem.prefab",
+                    "AssetGUID": "f94183551c09bc148982271dd831d3c8"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMView.prefab",
+                    "AssetGUID": "032a5520c2b71c349a684af0e1df8a9a"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuilocalizationpro_assets_gameres_i2localization.bundle",
+            "FileName": "ddce17b8561b3b26c5012053161b52a9.bundle",
+            "FileHash": "ddce17b8561b3b26c5012053161b52a9",
+            "FileCRC": "f6c24101",
+            "FileSize": 1445,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilocalizationpro/Assets/GameRes/I2Localization/I2_Chinese.csv",
+                    "AssetGUID": "d78f9d6faab66f54c8815920566eb56d"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilocalizationpro/Assets/GameRes/I2Localization/I2_English.csv",
+                    "AssetGUID": "1dfffc1b8fb22b84da4f9fd264a6f775"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "FileName": "d3dc0c034bc9d6e1d3cbe40f2c159dfd.bundle",
+            "FileHash": "d3dc0c034bc9d6e1d3cbe40f2c159dfd",
+            "FileCRC": "274a7ce0",
+            "FileSize": 16162,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollHorizontalView.prefab",
+                    "AssetGUID": "fa54e251dfa45fa4b8bfc53c7c33edaf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoItem.prefab",
+                    "AssetGUID": "d24f1f22fab23f241b81b4889bffb745"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoPanel.prefab",
+                    "AssetGUID": "06667c3f381b3a94b9cea17b5daa40f8"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalGroupView.prefab",
+                    "AssetGUID": "af394dafe27d6294fb3fd63a9f917e25"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalView.prefab",
+                    "AssetGUID": "a176502f7944cd244b8d1d3b3e44adc7"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuilubangen_assets_lubangen_config_binary_client.bundle",
+            "FileName": "93feca127d3ca25ff6a807b551b00766.bundle",
+            "FileHash": "93feca127d3ca25ff6a807b551b00766",
+            "FileCRC": "d717740b",
+            "FileSize": 1909,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/AIConfigCategory.bytes",
+                    "AssetGUID": "606eec949a47877439a19193a9781857"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/AudioConfigCategory.bytes",
+                    "AssetGUID": "36f9f9c3d0725124abff0a5979a0867d"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/ConditionConfigCategory.bytes",
+                    "AssetGUID": "4fe5e4b51ddf111418a382366f6dbbde"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/ConditionGroupConfigCategory.bytes",
+                    "AssetGUID": "6cd2d8ce71d303c4999c54cd190d1d3e"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/GameObjectPoolSettingsConfigCategory.bytes",
+                    "AssetGUID": "1610e4f2c503fa940b4eed74237b5917"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/LocalizationCheckConfigCategory.bytes",
+                    "AssetGUID": "bfdd4c56976e1604793a5116d21761bf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/LubanGen/Config/Binary/Client/UnitConfigCategory.bytes",
+                    "AssetGUID": "e071fe3714964834fba3126b51fd47f5"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_reddot.bundle",
+            "FileName": "e673ba3fde6d39a742e58cf7089f5c5c.bundle",
+            "FileHash": "e673ba3fde6d39a742e58cf7089f5c5c",
+            "FileCRC": "5e0d699f",
+            "FileSize": 3159,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotConfigAsset.asset",
+                    "AssetGUID": "46e581e4e1819c944b13c8aad861df44"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotKeyAsset.asset",
+                    "AssetGUID": "14f3201acadce99448ce10bd2ffa3528"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "FileName": "1187475ff20d0231c8f9ba0b92c3a7aa.bundle",
+            "FileHash": "1187475ff20d0231c8f9ba0b92c3a7aa",
+            "FileCRC": "6d41d9c8",
+            "FileSize": 42043,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotDataItem.prefab",
+                    "AssetGUID": "1629fdf43f57fec4298fbce74a07a3e4"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotPanel.prefab",
+                    "AssetGUID": "6363f4da10e95ca42bcbdc30c14944da"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotStackItem.prefab",
+                    "AssetGUID": "baccddcae3e62974fadaf3dc456d2981"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_common_prefabs.bundle",
+            "FileName": "d8ae90d8b6cda00a03653a02999f6ea0.bundle",
+            "FileHash": "d8ae90d8b6cda00a03653a02999f6ea0",
+            "FileCRC": "555bb7ea",
+            "FileSize": 6417,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuistatesync/Assets/GameRes/YIUI/Common/Prefabs/YIUIRoot.prefab",
+                    "AssetGUID": "4200f826ed726d4478d4d19000af33c4"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_lobby_prefabs.bundle",
+            "FileName": "00ba2e86391f07d14d6e3e4710ccf7a5.bundle",
+            "FileHash": "00ba2e86391f07d14d6e3e4710ccf7a5",
+            "FileCRC": "e1cf7d84",
+            "FileSize": 7222,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuistatesync/Assets/GameRes/YIUI/Lobby/Prefabs/LobbyPanel.prefab",
+                    "AssetGUID": "04c477bd518e168468ad6bd9c09e6320"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_main_prefabs.bundle",
+            "FileName": "c0eb4833e4a8ca3a663ac28fd5d0d11d.bundle",
+            "FileHash": "c0eb4833e4a8ca3a663ac28fd5d0d11d",
+            "FileCRC": "c7edd666",
+            "FileSize": 5569,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuistatesync/Assets/GameRes/YIUI/Main/Prefabs/MainPanel.prefab",
+                    "AssetGUID": "dc6c7211951b91947977360b3f95e3e4"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+            "FileName": "fa7b5878c4a1bff5325a021cd92644b8.bundle",
+            "FileHash": "fa7b5878c4a1bff5325a021cd92644b8",
+            "FileCRC": "b34a186c",
+            "FileSize": 6185,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Animation/TipsTextAnimation_01.anim",
+                    "AssetGUID": "9c0926859daaf8b468ac2c76129b913f"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "FileName": "422bee002ad0c028275de9a87869302f.bundle",
+            "FileHash": "422bee002ad0c028275de9a87869302f",
+            "FileCRC": "1a010f80",
+            "FileSize": 12329,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsMessageView.prefab",
+                    "AssetGUID": "c30d93aef19d0334889186e6f9dcff37"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsPanel.prefab",
+                    "AssetGUID": "9047ccdd6e81d494998b0a508d19e5b8"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsTextView.prefab",
+                    "AssetGUID": "a5dda1fd1d69d8f489c1b012f397f87f"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_base.bundle",
+            "FileName": "8c47d3e6851d58677d8241757dac1946.bundle",
+            "FileHash": "8c47d3e6851d58677d8241757dac1946",
+            "FileCRC": "a0785e3a",
+            "FileSize": 9958,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_zoom_in_zoom_in.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Base/Button.controller",
+                    "AssetGUID": "8ed70d97998274cf79cbba46e8aab8fe"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_zoom_in_zoom_in.bundle",
+            "FileName": "85c2fdd73fa72561b0ed586faf32c6ee.bundle",
+            "FileHash": "85c2fdd73fa72561b0ed586faf32c6ee",
+            "FileCRC": "ab437893",
+            "FileSize": 7616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_base.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Button - Zoom In.overrideController",
+                    "AssetGUID": "020338e8b6cbd48e9b54983e5e46df0e"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Disabled.anim",
+                    "AssetGUID": "2819e20fc0eba454c9fa711b7149b13b"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Highlighted.anim",
+                    "AssetGUID": "b7aa5d5a1b4514dbfa7185cb1e6ab8a5"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Normal.anim",
+                    "AssetGUID": "594a70557acef468ba296f01cc0dbc15"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Pressed.anim",
+                    "AssetGUID": "a55f9de0bfad74b68890947c89bb257e"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Buttons/Zoom In/Zoom In/Selected.anim",
+                    "AssetGUID": "580fb053aae204e4ba0e4c33916d8042"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_popups_fade.bundle",
+            "FileName": "e2c8d47e627587c445abcb1dafb62118.bundle",
+            "FileHash": "e2c8d47e627587c445abcb1dafb62118",
+            "FileCRC": "a882feba",
+            "FileSize": 9737,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Popups/Fade/Close.anim",
+                    "AssetGUID": "0973e2c86cfe04509baef129e51272c2"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Popups/Fade/Open.anim",
+                    "AssetGUID": "0f3a6a3b6b6d144e98451ddc01bb7859"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Animations/Popups/Fade/Popup Fade.controller",
+                    "AssetGUID": "4f7aa3cf36ab14569b9449cc289f90aa"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sounds.bundle",
+            "FileName": "53ac6a10d9174e73aa007be9ed5a5d0c.bundle",
+            "FileHash": "53ac6a10d9174e73aa007be9ed5a5d0c",
+            "FileCRC": "77629c3b",
+            "FileSize": 37681,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Button RollOver Soft.wav",
+                    "AssetGUID": "08b21a5c0723e41c293613e9d37f9902"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Button.wav",
+                    "AssetGUID": "21d2dd36629bf406daad2064370e68fe"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Close (Rollover).wav",
+                    "AssetGUID": "15abc1bdbe56f480baf05b728882ca96"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sounds/Close.wav",
+                    "AssetGUID": "c201f1dfd9d8345c7913a8662735c920"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_demo_popups_settings_icons_ui.bundle",
+            "FileName": "c931ea9b4efd94b70141cbea261e7df9.bundle",
+            "FileHash": "c931ea9b4efd94b70141cbea261e7df9",
+            "FileCRC": "8977d8a8",
+            "FileSize": 4516,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Demo/Popups/Settings/Icons UI/TickSharpIcon.png",
+                    "AssetGUID": "e6a0a4dfbbba24a9ab4bc6f64199901d"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_basic.bundle",
+            "FileName": "c2b821e07f141d76230167a2b4bb092f.bundle",
+            "FileHash": "c2b821e07f141d76230167a2b4bb092f",
+            "FileCRC": "d6de260d",
+            "FileSize": 25067,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_checkbox_diamond_filled_with_outline.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Basic/Checkmark - Curved.png",
+                    "AssetGUID": "af55966adb364495e8e1e69e5b2c28ba"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Basic/Lock.png",
+                    "AssetGUID": "454541f6ecedb4181a4c368a41e63ee3"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Basic/Mail.png",
+                    "AssetGUID": "79543e7393bfe4834bf2ccb97df3dd52"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_close_icons.bundle",
+            "FileName": "d00479300cac83a61c0a83e38fc08f69.bundle",
+            "FileHash": "d00479300cac83a61c0a83e38fc08f69",
+            "FileCRC": "9edb8e28",
+            "FileSize": 4842,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/Close Icons/Close Icon - Semi Round.png",
+                    "AssetGUID": "65133b11016ae4f619c821df8e547c32"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_user.bundle",
+            "FileName": "332a054c663aa62e6649e20c04b3c2aa.bundle",
+            "FileHash": "332a054c663aa62e6649e20c04b3c2aa",
+            "FileCRC": "e07dab0b",
+            "FileSize": 13503,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Icons/User/User.png",
+                    "AssetGUID": "b1bdeaa6a1f324f46b785c129622b23d"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_cutout.bundle",
+            "FileName": "65c116d4d7dada31e52343c1800d0b0d.bundle",
+            "FileHash": "65c116d4d7dada31e52343c1800d0b0d",
+            "FileCRC": "2318ea1d",
+            "FileSize": 5626,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Cutout/Cutout - 200ppu.png",
+                    "AssetGUID": "cc9151669908e4e85837bb4b4e2a3e06"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Cutout/Cutout - Stroke 2px - 200ppu.png",
+                    "AssetGUID": "4e1443b5fedb04b53b889dc402599498"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_diamond.bundle",
+            "FileName": "002b4983c1d435ec782096aab87a893e.bundle",
+            "FileHash": "002b4983c1d435ec782096aab87a893e",
+            "FileCRC": "57b0c16e",
+            "FileSize": 6157,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_checkbox_diamond_filled_with_outline.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Diamond/Diamond - Stroke 1px.png",
+                    "AssetGUID": "637aad9b0a8b745c4b03c35528cedbc7"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Diamond/Diamond.png",
+                    "AssetGUID": "dca6f3667624f48c3854ed640667233d"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_pointed.bundle",
+            "FileName": "c372f12c0cee1f72db295bd920996d68.bundle",
+            "FileHash": "c372f12c0cee1f72db295bd920996d68",
+            "FileCRC": "09851dca",
+            "FileSize": 9541,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Pointed/Pointed - 200ppu.png",
+                    "AssetGUID": "10873a2f4dc3a4ef3a37b4f048d525a3"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Pointed/Pointed - Stroke 2px - 200ppu.png",
+                    "AssetGUID": "0de9ae1c453904b54a52569911481cdc"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_square.bundle",
+            "FileName": "7bcb1ac37bc2164cdfbe763c58d50a86.bundle",
+            "FileHash": "7bcb1ac37bc2164cdfbe763c58d50a86",
+            "FileCRC": "d37ba86b",
+            "FileSize": 4423,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Common/Sprites/Shapes/Square/Square.png",
+                    "AssetGUID": "6e4f4c0390c77404fbc0e6716111c623"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+            "FileName": "d712a1eab523edca79432c387cfb6197.bundle",
+            "FileHash": "d712a1eab523edca79432c387cfb6197",
+            "FileCRC": "b1b5a747",
+            "FileSize": 229691,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Fonts/kurale-regular SDF.asset",
+                    "AssetGUID": "a07fd053aa5734a71a8148ecac13a5d9"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Fonts/kurale-regular.otf",
+                    "AssetGUID": "77201406d71494feabc8d9170093c3d7"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle",
+            "FileName": "6a416f379bcbfa864be5c79ebc533b21.bundle",
+            "FileHash": "6a416f379bcbfa864be5c79ebc533b21",
+            "FileCRC": "2b6c62f8",
+            "FileSize": 9643,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_base.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_animations_buttons_zoom_in_zoom_in.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sounds.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_pointed.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Button/Pointed/Filled/Button - Filled - Violet.prefab",
+                    "AssetGUID": "db12cedef226148a481ebe663f95a095"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Button/Pointed/Filled/Button - Filled.prefab",
+                    "AssetGUID": "7565aac6e115d4260a9f8227da618df7"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_checkbox_diamond_filled_with_outline.bundle",
+            "FileName": "254cf95e1d9b98814db4d48cf29ac6f7.bundle",
+            "FileHash": "254cf95e1d9b98814db4d48cf29ac6f7",
+            "FileCRC": "518943f3",
+            "FileSize": 6141,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_basic.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_diamond.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Checkbox/Diamond/Filled With Outline/Checkbox - Filled - Gray.prefab",
+                    "AssetGUID": "3f116025f4f35412380a6f6a64d02a28"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Checkbox/Diamond/Filled With Outline/Checkbox - Filled.prefab",
+                    "AssetGUID": "13d051131ca0c4b3e82d8d359eb93145"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle",
+            "FileName": "98b97c72b48146b358e245330a796b0f.bundle",
+            "FileHash": "98b97c72b48146b358e245330a796b0f",
+            "FileCRC": "cca701a1",
+            "FileSize": 12525,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_basic.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_user.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_cutout.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Input Field/List/Input List Group (With Icons).prefab",
+                    "AssetGUID": "1ee3531a60e6449aa9658bd4e0b6d0ba"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle",
+            "FileName": "e2fedf96bffdd5aa706c4f0c1a462b33.bundle",
+            "FileHash": "e2fedf96bffdd5aa706c4f0c1a462b33",
+            "FileCRC": "a647102a",
+            "FileSize": 11950,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sounds.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_icons_close_icons.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_cutout.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_common_sprites_shapes_square.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Popup/Base/Popup Base - Cutout.prefab",
+                    "AssetGUID": "2fba4c6fdded34ff8a360883315114da"
+                },
+                {
+                    "AssetPath": "Assets/3rd/Arts/UI/UltimateCleanGUIPack/Themes/Fantasy/Prefabs/UI Elements/Popup/Base/Popup Base.prefab",
+                    "AssetGUID": "0b1757db9211c4995ac5df2000a2f2c6"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+            "FileName": "18589067e30c7a7387652c77fc33d552.bundle",
+            "FileHash": "18589067e30c7a7387652c77fc33d552",
+            "FileCRC": "befb5a5c",
+            "FileSize": 1436,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+                "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1Settings.lighting",
+                    "AssetGUID": "4836a445dcf1a044d90ff116828a0704"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2Settings.lighting",
+                    "AssetGUID": "c78b5af2c87902e4aba73014819bd1a7"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle",
+            "FileName": "ca66cb9d1b5814c59e378dbd2623fe42.bundle",
+            "FileHash": "ca66cb9d1b5814c59e378dbd2623fe42",
+            "FileCRC": "36a011b6",
+            "FileSize": 1999616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_dir.png",
+                    "AssetGUID": "eeeb8730251ee1b469b9b070c7efb1cf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_light.exr",
+                    "AssetGUID": "ab3027117b6819848bae7b1746588d06"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1/ReflectionProbe-0.exr",
+                    "AssetGUID": "02bc6af578f699249a101b704d189b5a"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle",
+            "FileName": "be88fb088feab1bc481e02985a3af714.bundle",
+            "FileHash": "be88fb088feab1bc481e02985a3af714",
+            "FileCRC": "07e23e2d",
+            "FileSize": 635214,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_dir.png",
+                    "AssetGUID": "62a71c4ca03e7434ca6ff4bba65ffb45"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_light.exr",
+                    "AssetGUID": "0d7da8dd669b0d8488a81fcb41451b21"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2/ReflectionProbe-0.exr",
+                    "AssetGUID": "1f1694b2c0d992047b551ad028dd5347"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+            "FileName": "e92a44f861ac85061336cdc0943356c1.bundle",
+            "FileHash": "e92a44f861ac85061336cdc0943356c1",
+            "FileCRC": "c032f1de",
+            "FileSize": 3029,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+                "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Scenes/Mat/Urp.mat",
+                    "AssetGUID": "6d5adfb995cb79c438d8b1e6b5e5de91"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+            "FileName": "53d165cf57437099c943fcb626beef34.bundle",
+            "FileHash": "53d165cf57437099c943fcb626beef34",
+            "FileCRC": "a7983a49",
+            "FileSize": 10577,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Skeleton.prefab",
+                    "AssetGUID": "9e27b0bdab1ad7242a009899d15c0e67"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/SkeletonController.controller",
+                    "AssetGUID": "595f7cae6f82a6146b20ca287fe7c859"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+            "FileName": "bd8f3be23cf51716151f43dcf55a30ee.bundle",
+            "FileHash": "bd8f3be23cf51716151f43dcf55a30ee",
+            "FileCRC": "90073f5f",
+            "FileSize": 199683,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Idle.FBX",
+                    "AssetGUID": "a5ea117a2b123564a83a2dbd1c9ea4cf"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Run.FBX",
+                    "AssetGUID": "f57ee821486cd7b488adf1063a8dd207"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+            "FileName": "e9de4269a26c1e9edbf2feb3f384f068.bundle",
+            "FileHash": "e9de4269a26c1e9edbf2feb3f384f068",
+            "FileCRC": "0cc51e55",
+            "FileSize": 2868,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Materials/skeleton_D.mat",
+                    "AssetGUID": "b1494958bf9856a479bec1767c02878e"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+            "FileName": "8c3309ca33c855c4f52b7cae02fb2cbb.bundle",
+            "FileHash": "8c3309ca33c855c4f52b7cae02fb2cbb",
+            "FileCRC": "5f3d6214",
+            "FileSize": 607663,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+                "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif",
+                    "AssetGUID": "943f3c476130c4f4f8ae55ef3ccd38ba"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+            "FileName": "e00c27e1aeb1630d00c5ba46dd6d0cd5.bundle",
+            "FileHash": "e00c27e1aeb1630d00c5ba46dd6d0cd5",
+            "FileCRC": "eeb60f41",
+            "FileSize": 116652,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Skeleton@Idle.FBX",
+                    "AssetGUID": "25826fda47159ec40b7d2fd0c57f1f72"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+            "FileName": "c5ba50f54ef623dedf7e0a2de433daa6.bundle",
+            "FileHash": "c5ba50f54ef623dedf7e0a2de433daa6",
+            "FileCRC": "5ab40e7f",
+            "FileSize": 3083,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Materials/skeleton_D.mat",
+                    "AssetGUID": "0467fa2a8d6eb9f4fb046fe5736b87dc"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+            "FileName": "e546d80d16dd94b1b11274635a6e402a.bundle",
+            "FileHash": "e546d80d16dd94b1b11274635a6e402a",
+            "FileCRC": "d974e948",
+            "FileSize": 64735,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Skeleton@Skin.FBX",
+                    "AssetGUID": "d6d78adf80b38ce47a2e84e51df76d86"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/SkeletonController.controller",
+                    "AssetGUID": "4f60a0c39bebaf140b6b28c8bc0a1ac1"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+            "FileName": "0a54782cadc60f671e31cf6bb0f0c935.bundle",
+            "FileHash": "0a54782cadc60f671e31cf6bb0f0c935",
+            "FileCRC": "42b8a44b",
+            "FileSize": 2951,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Materials/skeleton_D.mat",
+                    "AssetGUID": "5845e442836208c4686925bfa42b9d5f"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_fonts.bundle",
+            "FileName": "254f407c75c30174a7c8294b4d88e620.bundle",
+            "FileHash": "254f407c75c30174a7c8294b4d88e620",
+            "FileCRC": "71be304a",
+            "FileSize": 88857,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Fonts/DNPPixel.ttf",
+                    "AssetGUID": "a6a9e8503517d794a964cf99c9d9a3e8"
+                },
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Fonts/DNPSaw.ttf",
+                    "AssetGUID": "62d3d1fbd207dff4280e78f60fd6f2aa"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_pixel.bundle",
+            "FileName": "529f8f6ebcbcc4d8d12d9481396257d0.bundle",
+            "FileHash": "529f8f6ebcbcc4d8d12d9481396257d0",
+            "FileCRC": "0ec96d76",
+            "FileSize": 15880,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_ui.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Materials/Pixel/Pixel-Glow.asset",
+                    "AssetGUID": "9c531f7132a5fa44a87992df50ab3582"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_saw.bundle",
+            "FileName": "4313229e4d53e1ce5e1f845d679da90c.bundle",
+            "FileHash": "4313229e4d53e1ce5e1f845d679da90c",
+            "FileCRC": "e251abd6",
+            "FileSize": 158666,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_3d.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/cn.etetet.yiuidamagetips/Plugins/DamageNumbersPro/Materials/Saw/Saw-Neon.asset",
+                    "AssetGUID": "9a9da3c6fe6d8674b979acf47b14f139"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_unityshaders.bundle",
+            "FileName": "c580f3b05af6445c6a9c2b7b04664ab8.bundle",
+            "FileHash": "c580f3b05af6445c6a9c2b7b04664ab8",
+            "FileCRC": "b85dec2e",
+            "FileSize": 172643,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+                "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+                "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle",
+                "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
+                "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle",
+                "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle",
+                "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+                "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_3d.bundle",
+                "defaultpackage_packages_cn_etetet_yiuidamagetips_assets_gameres_damage_ui.bundle",
+                "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+                "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+                "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+                "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+                "defaultpackage_packages_cn_etetet_yiuistatesync_assets_gameres_yiui_lobby_prefabs.bundle",
+                "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_fonts.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_button_pointed_filled.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_input_field_list.bundle",
+                "defaultpackage_share_assets_3rd_arts_ui_ultimatecleanguipack_themes_fantasy_prefabs_ui_elements_popup_base.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_pixel.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiuidamagetips_plugins_damagenumberspro_materials_saw.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                    "AssetGUID": "dd89cf5b9246416f84610a006f916af7"
+                },
+                {
+                    "AssetPath": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                    "AssetGUID": "68e6db2ebdc24f95958faec2be5558d6"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "AssetGUID": "933532a4fcc9baf4fa0491de14d08ed7"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                    "AssetGUID": "8d2bb70cbf9db8d4da26e15b26e74248"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

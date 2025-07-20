@@ -8,7 +8,7 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
-    "PackageNote": "2025/7/19 13:52:50",
+    "PackageNote": "2025/7/20 13:34:50",
     "AssetList": [
         {
             "Address": "YIUIConstAsset",
@@ -527,9 +527,9 @@
             "DependBundleIDs": []
         },
         {
-            "BundleName": "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs.bundle",
+            "BundleName": "defaultpackage_packages_cn_etetet_soulresonance_assets_gameres_yiui_login_prefabs_loginpanel.bundle",
             "UnityCRC": 0,
-            "FileHash": "d737b3905c605825650f95c9043a1ea9",
+            "FileHash": "034e565a6406914e935b7a180b3da9f5",
             "FileCRC": "00000000",
             "FileSize": 72089,
             "Encrypted": false,
